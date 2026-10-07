@@ -1,0 +1,1093 @@
+alert_id,transaction_id,alert_timestamp,anomaly_score,alert_type,risk_level,investigation_status,analyst_action,anomaly_score_missing_flag,investigation_status_missing_flag,transaction_id_invalid_flag,risk_anomaly_inconsistency_flag
+ALRT000001,TXN0004029,2025-02-24,0.194,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT000002,TXN0006211,2026-01-16,0.084,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000003,TXN0005346,2026-06-27,0.862,Unusual Location,Critical,Under Review,Contact Customer,False,False,False,False
+ALRT000004,TXN0005366,2026-06-14,0.248,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000005,TXN0002162,2025-11-06,0.164,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000006,TXN0006218,2025-11-26,0.37,Rapid Transactions,Low,New,Escalate,False,False,False,False
+ALRT000007,TXN0002081,2025-01-08,0.126,International Activity,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000008,TXN0001610,2026-09-29,0.409,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000009,TXN0001334,2025-04-12,0.264,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000010,TXN0000666,2026-05-14,0.302,Multiple Failures,Low,New,Block Transaction,False,False,False,False
+ALRT000011,TXN0003201,2026-05-09,0.906,Unusual Location,Critical,New,Escalate,False,False,False,False
+ALRT000012,TXN0005182,2025-04-17,0.178,International Activity,Medium,Under Review,Escalate,False,False,False,False
+ALRT000013,TXN0003546,2025-06-28,0.984,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000014,TXN0005726,2026-02-17,0.962,Unusual Location,Critical,Cleared,Block Transaction,False,False,False,False
+ALRT000015,TXN0005960,2025-10-16,0.249,Unusual Location,Medium,Under Review,Escalate,False,False,False,False
+ALRT000016,TXN0002007,2025-11-16,0.173,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT000017,TXN0001163,2025-04-17,0.088,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000018,TXN0006696,2026-05-31,0.453,High Amount,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000019,TXN0000178,2025-04-20,0.179,Rapid Transactions,Medium,New,Block Transaction,False,False,False,False
+ALRT000020,TXN0001960,2025-03-04,0.779,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT000021,TXN0003191,2025-03-09,0.268,Rapid Transactions,Low,Under Review,Escalate,False,False,False,False
+ALRT000022,TXN0005851,2026-05-08,0.134,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000023,TXN0004653,2025-11-16,0.481,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000024,TXN0002392,2025-07-17,0.944,Unusual Location,High,Under Review,Block Transaction,False,False,False,False
+ALRT000025,TXN0002531,2025-06-17,0.367,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000026,TXN0003299,2026-05-05,0.358,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000027,TXN0002038,2026-03-14,0.648,International Activity,Low,New,Block Transaction,False,False,False,False
+ALRT000028,TXN0002976,2025-12-22,0.137,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000029,TXN0001723,2025-11-09,0.205,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000030,TXN0004724,2026-01-09,0.674,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000031,TXN0000566,2026-05-01,0.295,Unusual Location,Low,Confirmed,Contact Customer,False,False,False,False
+ALRT000032,TXN0004053,2026-05-23,0.655,Multiple Failures,High,New,No Action,False,False,False,False
+ALRT000033,TXN0000371,2025-05-03,0.48,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000034,TXN0002171,2025-01-12,0.254,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000035,TXN0001750,2026-07-09,0.311,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000036,TXN0001351,2025-01-22,0.094,High Amount,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000037,TXN0000550,2026-02-02,0.02,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT000038,TXN0001558,2025-11-26,0.469,Unusual Location,Low,New,Block Transaction,False,False,False,False
+ALRT000039,TXN0004013,2025-11-02,0.142,Unusual Location,Low,New,Escalate,False,False,False,False
+ALRT000040,TXN0003508,2025-08-20,0.865,Rapid Transactions,High,Cleared,Block Transaction,False,False,False,False
+ALRT000041,TXN0003218,2025-03-28,0.954,Unusual Location,High,Under Review,Escalate,False,False,False,False
+ALRT000042,TXN0001286,2025-08-04,0.845,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000043,TXN0003471,2026-05-07,0.299,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000044,TXN0004171,2025-04-25,0.222,International Activity,Medium,New,Contact Customer,False,False,False,False
+ALRT000045,TXN0000092,2025-07-23,0.231,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000046,TXN0002978,2025-08-21,0.706,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000047,TXN0003566,2026-04-21,0.634,High Amount,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000048,TXN0004618,2026-08-06,0.009,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000049,TXN0004067,2026-03-06,0.807,International Activity,High,Under Review,Block Transaction,False,False,False,False
+ALRT000050,TXN0002912,2025-10-20,0.875,Rapid Transactions,High,Cleared,No Action,False,False,False,False
+ALRT000051,TXN0006591,2026-07-07,0.436,International Activity,Low,New,Block Transaction,False,False,False,False
+ALRT000052,TXN0005513,2025-04-03,0.145,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000053,TXN0006570,2025-04-06,0.98,Multiple Failures,High,Under Review,Contact Customer,False,False,False,False
+ALRT000054,TXN0002955,2025-11-25,0.277,International Activity,Low,New,No Action,False,False,False,False
+ALRT000055,TXN0004243,2026-09-28,0.153,Multiple Failures,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000056,TXN0000345,2026-08-22,0.439,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000057,TXN0003091,2026-07-23,0.166,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000058,TXN0001513,2025-05-29,0.661,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT000059,TXN0006524,2026-08-22,0.053,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000060,TXN0002939,2025-06-15,0.062,Multiple Failures,Low,New,Block Transaction,False,False,False,False
+ALRT000061,TXN0004687,2026-01-12,0.257,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000062,TXN0002205,2026-08-19,0.361,International Activity,Medium,Under Review,No Action,False,False,False,False
+ALRT000063,TXN0005819,2026-05-03,0.457,High Amount,Low,Cleared,Escalate,False,False,False,False
+ALRT000064,TXN0005706,2025-11-24,0.948,Unusual Location,High,Cleared,Block Transaction,False,False,False,False
+ALRT000065,TXN0006779,2025-05-26,0.952,Unusual Location,High,Cleared,Escalate,False,False,False,False
+ALRT000066,TXN0004659,2025-09-16,0.936,Unusual Location,High,Under Review,Escalate,False,False,False,False
+ALRT000067,TXN0006320,2026-02-26,0.544,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000068,TXN0002090,2026-03-22,0.126,High Amount,Medium,Under Review,No Action,False,False,False,False
+ALRT000069,TXN0001741,2025-10-30,0.151,High Amount,Medium,New,No Action,False,False,False,False
+ALRT000070,TXN0001392,2026-05-17,0.163,International Activity,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000071,TXN0001893,2026-04-29,0.9,Rapid Transactions,High,Cleared,No Action,False,False,False,False
+ALRT000072,TXN0006501,2026-03-18,0.511,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000073,TXN0005145,2025-01-24,0.225,Rapid Transactions,Medium,New,Escalate,False,False,False,False
+ALRT000074,TXN0003043,2026-02-28,0.946,Multiple Failures,High,New,Block Transaction,False,False,False,False
+ALRT000075,TXN0005994,2025-05-30,0.155,Unusual Location,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000076,TXN0002524,2026-09-07,0.504,Rapid Transactions,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000077,TXN0001157,2026-05-29,0.686,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000078,TXN0006585,2026-02-09,0.359,Unusual Location,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000079,TXN0006730,2025-07-22,0.196,High Amount,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000080,TXN0002025,2026-07-20,0.079,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000081,TXN0001743,2025-11-20,0.748,International Activity,High,New,Escalate,False,False,False,False
+ALRT000082,TXN0002193,2025-04-11,0.441,Unusual Location,Medium,New,No Action,False,False,False,False
+ALRT000083,TXN0001041,2026-03-31,0.107,Rapid Transactions,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000084,TXN0003023,2026-04-14,0.217,Unusual Location,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000085,TXN0002600,2025-03-17,0.711,Rapid Transactions,High,Cleared,Contact Customer,False,False,False,False
+ALRT000086,TXN0006974,2026-01-28,0.19,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000087,TXN0005146,2025-02-16,0.345,High Amount,Low,Cleared,Contact Customer,True,False,False,False
+ALRT000088,TXN0001307,2025-07-03,0.229,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000089,TXN0000315,2026-08-04,0.342,Unusual Location,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000090,TXN0001105,2025-03-22,0.315,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000091,TXN0003076,2026-09-26,0.264,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000092,TXN0005452,2025-05-01,0.138,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000093,TXN0006934,2026-07-07,0.152,International Activity,Low,New,Block Transaction,False,False,False,False
+ALRT000094,TXN0002042,2026-07-30,0.345,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000095,TXN0005695,2025-08-27,0.076,International Activity,Medium,New,No Action,False,False,False,False
+ALRT000096,TXN0003679,2025-03-16,0.779,High Amount,Critical,Under Review,No Action,False,False,False,False
+ALRT000097,TXN0002737,2026-02-13,0.154,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000098,TXN0002391,2025-11-30,0.153,Rapid Transactions,Low,Unknown,Escalate,False,True,False,False
+ALRT000099,TXN0004087,2025-10-29,0.17,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000100,TXN0006068,2025-08-10,0.244,Unusual Location,Medium,Under Review,No Action,False,False,False,False
+ALRT000101,TXN0002298,2025-02-16,0.681,International Activity,High,Under Review,No Action,False,False,False,False
+ALRT000102,TXN0002798,2025-01-22,0.168,High Amount,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000103,TXN0006865,2026-07-17,0.12,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000104,TXN0006937,2026-05-04,0.75,High Amount,High,Under Review,No Action,False,False,False,False
+ALRT000105,TXN0006437,2025-08-23,0.674,Multiple Failures,High,Cleared,No Action,False,False,False,False
+ALRT000106,TXN0002135,2025-05-21,0.322,Rapid Transactions,Medium,Confirmed,No Action,False,False,False,False
+ALRT000107,TXN0000609,2025-06-26,0.382,International Activity,Low,New,Block Transaction,False,False,False,False
+ALRT000108,TXN0003676,2025-05-06,0.122,High Amount,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000109,TXN0001559,2026-08-22,0.147,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000110,TXN0000499,2026-03-12,0.789,Rapid Transactions,High,Cleared,Contact Customer,False,False,False,False
+ALRT000111,TXN0005620,2026-07-19,0.684,Rapid Transactions,High,Confirmed,Escalate,False,False,False,False
+ALRT000112,TXN0005163,2025-03-10,0.706,Rapid Transactions,High,New,Block Transaction,False,False,False,False
+ALRT000113,TXN0001952,2025-01-30,0.279,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000114,TXN0002992,2025-04-07,0.262,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000115,TXN0005762,2025-11-03,0.435,International Activity,Low,New,No Action,False,False,False,False
+ALRT000116,TXN0003632,2026-07-16,0.483,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000117,TXN0006589,2026-07-18,0.347,International Activity,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000118,TXN0004752,2025-05-02,0.662,International Activity,High,Cleared,Contact Customer,False,False,False,False
+ALRT000119,TXN0006043,2025-08-05,0.296,High Amount,Low,New,No Action,False,False,False,False
+ALRT000120,TXN0000714,2026-01-23,0.939,Unusual Location,Critical,Under Review,Escalate,False,False,False,False
+ALRT000121,TXN0000676,2025-08-16,0.655,Unusual Location,High,New,Block Transaction,False,False,False,False
+ALRT000122,TXN0001727,2026-04-09,0.146,Unusual Location,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000123,TXN0004286,2025-06-20,0.104,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000124,TXN0005258,2025-07-25,0.087,Multiple Failures,Low,Cleared,No Action,False,False,False,False
+ALRT000125,TXN0001670,2025-08-30,0.501,High Amount,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000126,TXN0001881,2026-07-06,0.054,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000127,TXN0004909,2026-05-01,0.099,Rapid Transactions,Medium,New,Contact Customer,False,False,False,False
+ALRT000128,TXN0004304,2025-07-20,0.687,Multiple Failures,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000129,TXN0005113,2026-03-10,0.967,Rapid Transactions,High,Under Review,Block Transaction,False,False,False,False
+ALRT000130,TXN0000179,2025-11-01,0.072,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000131,TXN0002601,2025-12-07,0.138,High Amount,Medium,New,Contact Customer,False,False,False,False
+ALRT000132,TXN0001806,2025-10-08,0.259,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT000133,TXN0001152,2025-05-26,0.223,Unusual Location,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000134,TXN0001287,2025-09-18,0.897,Unusual Location,High,Under Review,No Action,False,False,False,False
+ALRT000135,TXN0005222,2025-09-07,0.345,Multiple Failures,Low,Under Review,Contact Customer,True,False,False,False
+ALRT000136,TXN0004150,2026-06-07,0.33,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000137,TXN0006121,2025-12-16,0.856,Multiple Failures,Critical,New,Block Transaction,False,False,False,False
+ALRT000138,TXN0006737,2025-10-02,0.072,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000139,TXN0006788,2025-04-15,0.714,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000140,TXN0000090,2025-01-11,0.777,Rapid Transactions,High,Under Review,Contact Customer,False,False,False,False
+ALRT000141,TXN0004068,2025-06-15,0.779,International Activity,Critical,New,No Action,False,False,False,False
+ALRT000142,TXN0000691,2026-07-29,0.445,Multiple Failures,Low,New,Block Transaction,False,False,False,False
+ALRT000143,TXN0005334,2025-12-22,0.461,Unusual Location,Medium,New,Block Transaction,False,False,False,False
+ALRT000144,TXN0002665,2025-01-01,0.7,Multiple Failures,High,Cleared,Contact Customer,False,False,False,False
+ALRT000145,TXN0000120,2025-09-05,0.218,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000146,TXN0005370,2025-02-10,0.77,Rapid Transactions,High,New,Block Transaction,False,False,False,False
+ALRT000147,TXN0003639,2025-11-28,0.192,High Amount,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000148,TXN0005364,2025-12-15,0.056,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000149,TXN0003652,2025-04-06,0.296,High Amount,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000150,TXN0005175,2025-02-05,0.18,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000151,TXN0003936,2025-09-05,0.591,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000152,TXN0005149,2025-03-02,0.301,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000153,TXN0006346,2025-11-09,0.931,Multiple Failures,High,Under Review,No Action,False,False,False,False
+ALRT000154,TXN0004872,2026-03-31,0.407,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000155,TXN0006542,2026-01-14,0.165,Unusual Location,Medium,Cleared,Escalate,False,False,False,False
+ALRT000156,TXN0001220,2025-12-29,0.301,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000157,TXN0001217,2026-02-21,0.14,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000158,TXN0002930,2025-11-22,0.819,Rapid Transactions,High,Under Review,No Action,False,False,False,False
+ALRT000159,TXN0002866,2025-05-31,0.311,Rapid Transactions,Low,Confirmed,Escalate,False,False,False,False
+ALRT000160,TXN0005468,2025-01-05,0.447,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000161,TXN0006695,2025-02-02,0.96,High Amount,High,Cleared,Escalate,False,False,False,False
+ALRT000162,TXN0003072,2026-04-25,0.345,Rapid Transactions,Low,Under Review,No Action,True,False,False,False
+ALRT000163,TXN0001665,2025-09-29,0.691,International Activity,High,Cleared,Escalate,False,False,False,False
+ALRT000164,TXN0005918,2026-05-31,0.791,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000165,TXN0006488,2025-01-13,0.799,Unusual Location,Critical,Cleared,Contact Customer,False,False,False,False
+ALRT000166,TXN0003925,2025-08-31,0.441,International Activity,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000167,TXN0005229,2025-03-10,0.49,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000168,TXN0002820,2025-07-08,0.261,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000169,TXN0002020,2025-04-27,0.517,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000170,TXN0006496,2025-08-13,0.1,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000171,TXN0005224,2025-03-16,0.232,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000172,TXN0003984,2025-09-09,0.839,High Amount,Critical,Cleared,Escalate,False,False,False,False
+ALRT000173,TXN0000405,2025-11-02,0.409,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT000174,TXN0002218,2026-09-22,0.01,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000175,TXN0000801,2025-10-29,0.606,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000176,TXN0001012,2026-05-03,0.21,International Activity,Medium,Unknown,Block Transaction,False,True,False,False
+ALRT000177,TXN0000975,2026-07-27,0.713,International Activity,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000178,TXN0005153,2025-01-15,0.684,Multiple Failures,High,Cleared,Block Transaction,False,False,False,False
+ALRT000179,TXN0005394,2026-08-31,0.017,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000180,TXN0003371,2025-07-27,0.949,Unusual Location,High,Cleared,Contact Customer,False,False,False,False
+ALRT000181,TXN0004741,2025-05-04,0.467,High Amount,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000182,TXN0006039,2026-08-24,0.857,Unusual Location,Critical,Cleared,No Action,False,False,False,False
+ALRT000183,TXN0003664,2025-08-15,0.472,International Activity,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000184,TXN0002365,2025-06-11,0.27,Rapid Transactions,Medium,New,Escalate,False,False,False,False
+ALRT000185,TXN0004645,2026-03-09,0.98,Rapid Transactions,High,New,Contact Customer,False,False,False,False
+ALRT000186,TXN0005560,2026-08-07,0.749,High Amount,High,Under Review,Contact Customer,False,False,False,False
+ALRT000187,TXN0004354,2026-04-11,0.149,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000188,TXN0003866,2026-09-29,0.496,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000189,TXN0000748,2025-07-24,0.819,International Activity,High,New,Escalate,False,False,False,False
+ALRT000190,TXN0004808,2026-09-27,0.924,Multiple Failures,High,Under Review,Escalate,False,False,False,False
+ALRT000191,TXN0002606,2025-06-25,0.28,Rapid Transactions,Low,Confirmed,Block Transaction,False,False,False,False
+ALRT000192,TXN0001948,2026-07-20,0.345,Rapid Transactions,Medium,New,Escalate,True,False,False,False
+ALRT000193,TXN0006581,2025-02-15,0.31,High Amount,Medium,New,No Action,False,False,False,False
+ALRT000194,TXN0000033,2025-12-01,0.913,High Amount,High,New,No Action,False,False,False,False
+ALRT000195,TXN0002377,2025-01-16,0.211,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000196,TXN0001701,2026-07-15,0.467,International Activity,Medium,Cleared,No Action,False,False,False,False
+ALRT000197,TXN0001393,2025-12-21,0.919,Rapid Transactions,High,Under Review,No Action,False,False,False,False
+ALRT000198,TXN0004599,2025-09-07,0.267,Rapid Transactions,Medium,Cleared,Escalate,False,False,False,False
+ALRT000199,TXN0006419,2026-06-23,0.2,Unusual Location,Medium,New,Contact Customer,False,False,False,False
+ALRT000200,TXN0002419,2025-04-11,0.166,High Amount,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000201,TXN0003647,2025-12-06,0.243,Rapid Transactions,Medium,New,Contact Customer,False,False,False,False
+ALRT000202,TXN0005876,2026-05-10,0.124,Rapid Transactions,Medium,Under Review,Escalate,False,False,False,False
+ALRT000203,TXN0005419,2025-08-01,0.216,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000204,TXN0004010,2026-06-13,0.413,High Amount,Low,New,No Action,False,False,False,False
+ALRT000205,TXN0001656,2026-08-17,0.248,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000206,TXN0005074,2026-06-28,0.694,International Activity,Critical,Cleared,No Action,False,False,False,True
+ALRT000207,TXN0003844,2025-11-30,0.85,Unusual Location,High,New,No Action,False,False,False,False
+ALRT000208,TXN0002552,2026-03-22,0.136,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000209,TXN0006538,2025-09-19,0.017,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000210,TXN0005832,2026-07-06,0.603,Unusual Location,Low,New,Block Transaction,False,False,False,False
+ALRT000211,TXN0001998,2025-11-30,0.319,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000212,TXN0000477,2025-04-19,0.213,International Activity,Medium,Under Review,No Action,False,False,False,False
+ALRT000213,TXN0000997,2025-06-17,0.216,Multiple Failures,Medium,Under Review,No Action,False,False,False,False
+ALRT000214,TXN0002314,2026-08-25,0.2,International Activity,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000215,TXN0003863,2026-06-09,0.184,International Activity,Medium,Under Review,Escalate,False,False,False,False
+ALRT000216,TXN0004375,2025-03-03,0.591,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000217,TXN0002584,2026-07-20,0.07,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000218,TXN0002714,2025-12-20,0.829,International Activity,Critical,New,Block Transaction,False,False,False,False
+ALRT000219,TXN0000721,2026-02-12,0.803,International Activity,Critical,New,Block Transaction,False,False,False,False
+ALRT000220,TXN0005052,2026-05-12,0.736,High Amount,High,Under Review,Escalate,False,False,False,False
+ALRT000221,TXN0000137,2026-08-31,0.112,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000222,TXN0000598,2026-09-10,0.802,Rapid Transactions,High,Cleared,Escalate,False,False,False,False
+ALRT000223,TXN0006544,2025-02-05,0.198,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000224,TXN0001658,2025-12-05,0.85,High Amount,High,Under Review,Block Transaction,False,False,False,False
+ALRT000225,TXN0005386,2026-01-11,0.17,Multiple Failures,Medium,Under Review,No Action,False,False,False,False
+ALRT000226,TXN0002692,2025-06-24,0.856,Rapid Transactions,High,New,Contact Customer,False,False,False,False
+ALRT000227,TXN0006871,2025-04-20,0.258,International Activity,Medium,New,Block Transaction,False,False,False,False
+ALRT000228,TXN0000683,2026-04-09,0.123,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000229,TXN0001896,2025-06-23,0.103,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000230,TXN0000859,2025-07-21,0.319,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000231,TXN0003376,2026-05-18,0.34,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000232,TXN0001884,2025-03-11,0.736,Multiple Failures,High,Under Review,No Action,False,False,False,False
+ALRT000233,TXN0001752,2025-01-08,0.209,Multiple Failures,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000234,TXN0001192,2026-04-13,0.034,International Activity,Low,Confirmed,Block Transaction,False,False,False,False
+ALRT000235,TXN0006186,2025-07-06,0.841,Multiple Failures,High,Confirmed,Escalate,False,False,False,False
+ALRT000236,TXN0002819,2026-05-17,0.207,International Activity,Medium,Cleared,No Action,False,False,False,False
+ALRT000237,TXN0000245,2026-07-21,0.119,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT000238,TXN0005831,2026-05-06,0.826,Rapid Transactions,High,Confirmed,No Action,False,False,False,False
+ALRT000241,TXN0000866,2025-05-28,0.65,Unusual Location,High,Under Review,No Action,False,False,False,False
+ALRT000242,TXN0004164,2026-07-25,0.579,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000243,TXN0000951,2025-09-07,0.366,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000244,TXN0004258,2026-07-29,0.526,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000245,TXN0004160,2025-09-22,0.301,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT000246,TXN0005444,2026-02-28,0.468,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000247,TXN0006684,2026-07-01,0.141,Rapid Transactions,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000248,TXN0002347,2025-07-08,0.345,Unusual Location,Low,Unknown,No Action,True,True,False,False
+ALRT000249,TXN0003916,2025-03-01,0.078,Multiple Failures,Low,Cleared,No Action,False,False,False,False
+ALRT000250,TXN0005291,2026-01-16,0.749,High Amount,High,Under Review,Block Transaction,False,False,False,False
+ALRT000251,TXN0004435,2025-07-25,0.04,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000252,TXN0003420,2025-10-06,0.946,Multiple Failures,High,Confirmed,Escalate,False,False,False,False
+ALRT000253,TXN0001580,2026-04-28,0.404,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000254,TXN0000231,2026-07-31,0.345,Unusual Location,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000255,TXN0001614,2026-05-31,0.42,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT000256,TXN0000142,2026-01-04,0.42,Unusual Location,Low,Confirmed,Contact Customer,False,False,False,False
+ALRT000257,TXN0000998,2026-07-01,0.112,Multiple Failures,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000258,TXN0005072,2025-08-29,0.201,High Amount,Medium,Confirmed,Contact Customer,False,False,False,False
+ALRT000260,TXN0002782,2026-03-16,0.724,Rapid Transactions,High,Cleared,Escalate,False,False,False,False
+ALRT000261,TXN0006193,2026-01-15,0.866,Unusual Location,High,Cleared,No Action,False,False,False,False
+ALRT000262,TXN0003882,2025-01-12,0.111,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000263,TXN0006271,2026-02-12,0.291,International Activity,Medium,Under Review,No Action,False,False,False,False
+ALRT000264,TXN0005510,2026-03-04,0.553,International Activity,Medium,Under Review,Escalate,False,False,False,False
+ALRT000265,TXN0002776,2025-09-02,0.601,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000266,TXN0002017,2026-02-14,0.124,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000267,TXN0003259,2025-09-04,0.453,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000268,TXN0003046,2026-05-12,0.465,Rapid Transactions,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000269,TXN0003327,2026-02-12,0.802,Rapid Transactions,High,New,Escalate,False,False,False,False
+ALRT000270,TXN0003060,2025-11-18,0.274,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000271,TXN0004833,2025-04-29,0.24,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000272,TXN0000610,2025-02-12,0.077,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT000273,TXN0001744,2025-05-09,0.319,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000274,TXN0004081,2025-10-06,0.197,International Activity,Low,Confirmed,No Action,False,False,False,False
+ALRT000275,TXN0001447,2026-01-10,0.085,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000276,TXN0003104,2026-03-30,0.045,Rapid Transactions,Low,Under Review,Escalate,False,False,False,False
+ALRT000277,TXN0006420,2025-02-07,0.047,Rapid Transactions,Medium,Cleared,Escalate,False,False,False,False
+ALRT000278,TXN0000426,2025-06-14,0.604,Unusual Location,Low,Unknown,No Action,False,True,False,False
+ALRT000279,TXN0002043,2026-07-03,0.967,High Amount,High,Under Review,Contact Customer,False,False,False,False
+ALRT000280,TXN0000797,2025-11-26,0.922,High Amount,High,Cleared,Escalate,False,False,False,False
+ALRT000281,TXN0005788,2025-11-01,0.297,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT000282,TXN0000815,2026-05-30,0.746,Rapid Transactions,High,New,No Action,False,False,False,False
+ALRT000283,TXN0001511,2025-05-24,0.059,Unusual Location,Low,New,Block Transaction,False,False,False,False
+ALRT000284,TXN0001444,2025-05-12,0.312,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000285,TXN0002336,2025-01-24,0.318,High Amount,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000286,TXN0006843,2025-10-09,0.877,Multiple Failures,High,Unknown,Block Transaction,False,True,False,False
+ALRT000287,TXN0006919,2026-04-13,0.117,High Amount,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000289,TXN0006471,2026-06-04,0.227,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000290,TXN0006328,2025-04-04,0.965,Unusual Location,High,Under Review,No Action,False,False,False,False
+ALRT000291,TXN0006705,2026-09-21,0.836,High Amount,High,Under Review,No Action,False,False,False,False
+ALRT000292,TXN0004702,2025-03-03,0.786,High Amount,High,Cleared,Contact Customer,False,False,False,False
+ALRT000293,TXN0002363,2025-02-27,0.331,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000294,TXN0002947,2026-07-18,0.345,High Amount,Medium,Cleared,Contact Customer,True,False,False,False
+ALRT000295,TXN0003531,2026-02-25,0.201,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000296,TXN0004960,2026-07-09,0.467,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000297,TXN0002598,2025-08-01,0.123,High Amount,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000298,TXN0006198,2025-03-13,0.197,High Amount,Low,Confirmed,Escalate,False,False,False,False
+ALRT000299,TXN0004815,2025-08-04,0.686,Unusual Location,High,Cleared,Contact Customer,False,False,False,False
+ALRT000300,TXN0002985,2025-11-20,0.26,Rapid Transactions,Medium,New,Contact Customer,False,False,False,False
+ALRT000301,TXN0005618,2026-03-28,0.819,International Activity,High,Under Review,Escalate,False,False,False,False
+ALRT000302,TXN0000452,2025-07-15,0.176,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000303,TXN0006150,2025-09-30,0.88,Multiple Failures,Critical,New,Contact Customer,False,False,False,False
+ALRT000304,TXN0006183,2025-11-03,0.288,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000305,TXN0000409,2025-07-17,0.134,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000306,TXN0001205,2025-06-20,0.747,High Amount,High,Cleared,Contact Customer,False,False,False,False
+ALRT000307,TXN0006403,2025-04-20,0.156,High Amount,Medium,Under Review,No Action,False,False,False,False
+ALRT000308,TXN0003582,2026-06-12,0.149,High Amount,Low,Cleared,Escalate,False,False,False,False
+ALRT000309,TXN0003450,2025-05-12,0.147,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000310,TXN0002924,2026-01-19,0.805,High Amount,High,Under Review,Block Transaction,False,False,False,False
+ALRT000311,TXN0006185,2026-03-04,0.061,High Amount,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000312,TXN0004620,2026-01-31,0.678,International Activity,High,Cleared,No Action,False,False,False,False
+ALRT000313,TXN0000119,2026-01-25,0.235,High Amount,Low,Under Review,Escalate,False,False,False,False
+ALRT000314,TXN0002449,2026-09-13,0.271,Multiple Failures,Low,Cleared,No Action,False,False,False,False
+ALRT000315,TXN0005611,2026-08-24,0.424,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT000316,TXN0004691,2025-11-05,0.338,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT000317,TXN0002514,2026-05-22,0.731,Unusual Location,High,Cleared,Escalate,False,False,False,False
+ALRT000318,TXN0006896,2026-04-12,0.425,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000319,TXN0000097,2026-02-28,0.339,Multiple Failures,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000320,TXN0001251,2025-10-22,0.359,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT000321,TXN0006214,2025-12-27,0.927,International Activity,High,Cleared,Escalate,False,False,False,False
+ALRT000322,TXN0005502,2025-02-08,0.76,Unusual Location,High,Confirmed,No Action,False,False,False,False
+ALRT000323,TXN0001312,2025-07-12,0.944,Multiple Failures,High,Confirmed,Escalate,False,False,False,False
+ALRT000324,TXN0002641,2026-01-13,0.2,Multiple Failures,Low,New,No Action,False,False,False,False
+ALRT000325,TXN0005996,2025-03-25,0.289,Multiple Failures,Low,New,Block Transaction,False,False,False,False
+ALRT000326,TXN0000745,2025-02-01,0.679,High Amount,High,Under Review,Contact Customer,False,False,False,False
+ALRT000327,TXN0003203,2025-12-22,0.134,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000328,TXN0003352,2026-04-18,0.393,High Amount,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000329,TXN0000617,2025-01-02,0.727,International Activity,High,Cleared,Contact Customer,False,False,False,False
+ALRT000330,TXN0002504,2025-11-15,0.24,Unusual Location,Medium,New,No Action,False,False,False,False
+ALRT000331,TXN0004975,2025-04-13,0.166,International Activity,Low,New,Block Transaction,False,False,False,False
+ALRT000332,TXN0002485,2026-07-12,0.152,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000333,TXN0002632,2025-05-20,0.291,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000334,TXN0006139,2025-01-28,0.357,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000335,TXN0004783,2026-07-12,0.877,Multiple Failures,Critical,New,No Action,False,False,False,False
+ALRT000336,TXN0006096,2025-09-21,0.288,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000337,TXN0005950,2026-02-06,0.529,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000338,TXN0006242,2025-03-08,0.238,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000339,TXN0002722,2025-07-13,0.156,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT000340,TXN0003241,2025-01-16,0.173,Unusual Location,Medium,New,Escalate,False,False,False,False
+ALRT000341,TXN0001357,2025-08-24,0.262,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000342,TXN0003827,2025-06-15,0.383,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000343,TXN0002681,2025-03-09,0.416,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000344,TXN0000496,2026-04-26,0.029,Multiple Failures,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000345,TXN0006529,2025-02-14,0.136,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000346,TXN0000591,2025-08-23,0.904,Unusual Location,High,New,Block Transaction,False,False,False,False
+ALRT000347,TXN0000877,2026-08-08,0.144,Multiple Failures,Medium,Under Review,No Action,False,False,False,False
+ALRT000348,TXN0006787,2025-03-03,0.095,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000349,TXN0004209,2026-01-16,0.446,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000350,TXN0005091,2026-05-29,0.277,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000351,TXN0003964,2025-01-31,0.168,Rapid Transactions,Medium,Under Review,Escalate,False,False,False,False
+ALRT000352,TXN0003691,2025-04-22,0.379,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000353,TXN0003304,2025-02-20,0.404,International Activity,Medium,New,No Action,False,False,False,False
+ALRT000354,TXN0001201,2026-08-23,0.37,International Activity,Medium,New,Escalate,False,False,False,False
+ALRT000355,TXN0006849,2025-02-09,0.822,Multiple Failures,High,Under Review,Block Transaction,False,False,False,False
+ALRT000356,TXN0001208,2026-02-04,0.939,Rapid Transactions,High,Under Review,No Action,False,False,False,False
+ALRT000357,TXN0003102,2025-09-21,0.407,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000358,TXN0000555,2025-12-04,0.766,Unusual Location,High,New,No Action,False,False,False,False
+ALRT000359,TXN0002332,2025-02-12,0.165,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000360,TXN0006679,2025-07-28,0.159,Unusual Location,Medium,Under Review,Escalate,False,False,False,False
+ALRT000361,TXN0005204,2026-03-17,0.202,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000362,TXN0005164,2026-09-09,0.258,High Amount,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000363,TXN0003194,2025-10-25,0.357,Multiple Failures,Medium,New,Contact Customer,False,False,False,False
+ALRT000364,TXN0001856,2026-07-08,0.351,High Amount,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000365,TXN0004963,2025-07-16,0.803,High Amount,High,New,Contact Customer,False,False,False,False
+ALRT000366,TXN0000230,2025-07-16,0.237,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000367,TXN0006727,2026-09-30,0.414,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000368,TXN0001029,2026-07-12,0.41,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000369,TXN0000069,2026-07-26,0.373,Rapid Transactions,Low,Under Review,Escalate,False,False,False,False
+ALRT000370,TXN0002005,2026-04-26,0.257,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000371,TXN0001320,2026-09-18,0.175,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000372,TXN0005534,2025-10-14,0.252,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000373,TXN0005395,2026-03-12,0.231,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT000374,TXN0000478,2025-09-03,0.278,Rapid Transactions,Medium,New,Block Transaction,False,False,False,False
+ALRT000375,TXN0004370,2025-12-11,0.906,International Activity,High,New,Escalate,False,False,False,False
+ALRT000376,TXN0006340,2025-08-26,0.308,Unusual Location,Medium,New,Contact Customer,False,False,False,False
+ALRT000377,TXN0000775,2026-05-18,0.745,High Amount,Critical,Under Review,No Action,False,False,False,False
+ALRT000378,TXN0000244,2026-07-17,0.283,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000379,TXN0001593,2025-07-02,0.104,Rapid Transactions,Medium,New,Contact Customer,False,False,False,False
+ALRT000380,TXN0006683,2025-05-26,0.76,Multiple Failures,High,New,Block Transaction,False,False,False,False
+ALRT000381,TXN0003665,2025-02-17,0.152,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000382,TXN0003826,2025-02-22,0.891,Multiple Failures,High,Cleared,Contact Customer,False,False,False,False
+ALRT000383,TXN0001977,2026-09-22,0.977,International Activity,Critical,Cleared,Block Transaction,False,False,False,False
+ALRT000384,TXN0005767,2025-08-03,0.389,Multiple Failures,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000385,TXN0001605,2026-04-20,0.678,Unusual Location,High,New,Block Transaction,False,False,False,False
+ALRT000386,TXN0003607,2026-01-03,0.706,International Activity,Critical,Confirmed,Contact Customer,False,False,False,False
+ALRT000387,TXN0001620,2025-06-06,0.526,International Activity,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000388,TXN0000640,2025-10-07,0.204,Unusual Location,Low,New,Escalate,False,False,False,False
+ALRT000389,TXN0000202,2026-07-30,0.037,Unusual Location,Low,New,Escalate,False,False,False,False
+ALRT000390,TXN0001489,2026-08-13,0.098,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000391,TXN0003512,2025-12-09,0.535,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT000393,TXN0005516,2026-03-12,0.895,Rapid Transactions,High,Cleared,Contact Customer,False,False,False,False
+ALRT000394,TXN0001142,2025-03-09,0.453,High Amount,Medium,New,Contact Customer,False,False,False,False
+ALRT000395,TXN0006960,2025-01-31,0.182,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000396,TXN0002223,2026-08-26,0.139,Multiple Failures,Low,Confirmed,Contact Customer,False,False,False,False
+ALRT000397,TXN0001830,2025-06-01,0.827,Rapid Transactions,Critical,New,Escalate,False,False,False,False
+ALRT000398,TXN0000858,2025-05-23,0.247,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000399,TXN0002904,2025-02-04,0.16,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000400,TXN0006415,2026-03-19,0.546,Unusual Location,Medium,New,Escalate,False,False,False,False
+ALRT000401,TXN0002125,2026-06-16,0.191,Rapid Transactions,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000402,TXN0003291,2025-08-29,0.406,Rapid Transactions,Medium,Cleared,Escalate,False,False,False,False
+ALRT000403,TXN0004646,2026-04-03,0.384,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000404,TXN0003791,2025-06-06,0.191,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000405,TXN0000926,2025-11-08,0.251,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000406,TXN0004204,2025-10-17,0.762,International Activity,High,Under Review,Block Transaction,False,False,False,False
+ALRT000407,TXN0006350,2025-07-19,0.229,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000408,TXN0003315,2025-03-30,0.25,International Activity,Medium,Under Review,No Action,False,False,False,False
+ALRT000409,TXN0006129,2026-07-15,0.227,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT000410,TXN0001929,2025-02-03,0.356,Multiple Failures,Low,Under Review,No Action,False,False,False,False
+ALRT000411,TXN0002368,2025-09-04,0.024,Multiple Failures,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000412,TXN0000930,2025-08-12,0.331,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000413,TXN0002515,2026-04-09,0.372,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000414,TXN0001821,2026-09-13,0.134,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000415,TXN0004223,2026-08-16,0.763,High Amount,High,Confirmed,Contact Customer,False,False,False,False
+ALRT000416,TXN0004386,2026-07-10,0.228,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000417,TXN0003029,2026-03-29,0.479,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT000418,TXN0006797,2025-09-30,0.373,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000419,TXN0005133,2026-02-05,0.31,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000420,TXN0006384,2025-06-06,0.052,High Amount,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000421,TXN0003875,2026-07-17,0.906,Multiple Failures,High,Cleared,No Action,False,False,False,False
+ALRT000422,TXN0001886,2025-05-18,0.564,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000423,TXN0005482,2026-04-23,0.314,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000424,TXN0001617,2025-01-11,0.356,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000425,TXN0005363,2026-05-31,0.657,Multiple Failures,High,Under Review,Block Transaction,False,False,False,False
+ALRT000426,TXN0004433,2026-03-26,0.851,Rapid Transactions,Critical,Cleared,Escalate,False,False,False,False
+ALRT000427,TXN0004825,2025-11-14,0.288,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000428,TXN0005096,2026-04-20,0.51,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000429,TXN0000820,2025-02-10,0.264,Multiple Failures,Low,New,No Action,False,False,False,False
+ALRT000430,TXN0005940,2025-12-19,0.075,Rapid Transactions,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000431,TXN0006202,2025-08-31,0.206,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000432,TXN0004320,2026-07-01,0.925,International Activity,High,Cleared,Escalate,False,False,False,False
+ALRT000433,TXN0006020,2025-01-13,0.32,Multiple Failures,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000434,TXN0001421,2025-06-13,0.133,Rapid Transactions,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000435,TXN0000236,2026-03-03,0.612,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000436,TXN0005792,2025-07-21,0.78,High Amount,High,Cleared,Block Transaction,False,False,False,False
+ALRT000437,TXN0004514,2025-11-26,0.225,Rapid Transactions,Low,New,Contact Customer,False,False,False,False
+ALRT000438,TXN0002649,2026-04-24,0.946,Multiple Failures,High,Cleared,Contact Customer,False,False,False,False
+ALRT000439,TXN0001546,2026-04-12,0.12,High Amount,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000440,TXN0002439,2026-04-13,0.186,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000441,TXN0005766,2026-06-04,0.514,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000442,TXN0003354,2025-03-30,0.365,High Amount,Low,Cleared,Escalate,False,False,False,False
+ALRT000443,TXN0002198,2025-09-13,0.04,International Activity,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000444,TXN0004393,2025-02-22,0.182,Unusual Location,Low,New,Escalate,False,False,False,False
+ALRT000445,TXN0001174,2025-12-23,0.126,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000446,TXN0006574,2026-05-28,0.366,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000447,TXN0002625,2025-12-14,0.855,Unusual Location,High,New,Block Transaction,False,False,False,False
+ALRT000448,TXN0005749,2026-01-12,0.658,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000449,TXN0001470,2025-07-03,0.08,Rapid Transactions,Medium,Under Review,Escalate,False,False,False,False
+ALRT000450,TXN0003712,2026-01-03,0.453,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000451,TXN0002455,2025-03-03,0.24,High Amount,Low,New,No Action,False,False,False,False
+ALRT000452,TXN0000618,2025-01-05,0.964,Unusual Location,High,Cleared,Block Transaction,False,False,False,False
+ALRT000453,TXN0006673,2026-01-15,0.511,Multiple Failures,Medium,New,Escalate,False,False,False,False
+ALRT000454,TXN0006649,2025-08-19,0.187,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000455,TXN0000632,2025-06-17,0.158,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000456,TXN0004679,2026-04-24,0.823,Multiple Failures,Critical,Cleared,Escalate,False,False,False,False
+ALRT000457,TXN0000133,2026-04-20,0.916,Multiple Failures,High,Under Review,No Action,False,False,False,False
+ALRT000458,TXN0006653,2025-03-11,0.736,High Amount,Low,Cleared,Contact Customer,False,False,False,True
+ALRT000459,TXN0003182,2026-08-09,0.833,High Amount,Critical,Cleared,Block Transaction,False,False,False,False
+ALRT000460,TXN0004214,2025-07-04,0.122,Rapid Transactions,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000461,TXN0004556,2025-09-21,0.697,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000462,TXN0002092,2025-05-19,0.466,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT000463,TXN0003700,2026-01-01,0.08,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000464,TXN0001911,2026-07-24,0.293,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000465,TXN0002497,2025-08-28,0.742,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000466,TXN0000932,2026-05-23,0.857,High Amount,High,Under Review,Contact Customer,False,False,False,False
+ALRT000467,TXN0004987,2026-07-04,0.336,International Activity,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000468,TXN0005449,2026-09-21,0.389,Unusual Location,Medium,New,Escalate,False,False,False,False
+ALRT000469,TXN0005668,2025-10-12,0.334,Unusual Location,Medium,Cleared,Escalate,False,False,False,False
+ALRT000470,TXN0006734,2026-08-02,0.332,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000471,TXN0006460,2026-07-01,0.506,Unusual Location,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000472,TXN0006707,2025-07-08,0.397,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000473,TXN0004968,2025-01-15,0.368,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000474,TXN0006143,2026-03-13,0.345,Rapid Transactions,Medium,New,Escalate,False,False,False,False
+ALRT000475,TXN0005911,2025-08-14,0.503,Multiple Failures,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000476,TXN0000367,2026-09-18,0.956,Multiple Failures,High,Under Review,No Action,False,False,False,False
+ALRT000477,TXN0000862,2026-08-09,0.313,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000478,TXN0001925,2025-11-29,0.375,Unusual Location,Medium,New,No Action,False,False,False,False
+ALRT000479,TXN0005731,2026-05-20,0.892,Rapid Transactions,Critical,Under Review,No Action,False,False,False,False
+ALRT000480,TXN0003151,2025-01-05,0.484,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000481,TXN0005515,2025-10-05,0.197,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000482,TXN0003871,2026-05-29,0.14,Multiple Failures,Low,Cleared,No Action,False,False,False,False
+ALRT000483,TXN0001464,2025-03-23,0.732,International Activity,High,New,Block Transaction,False,False,False,False
+ALRT000484,TXN0004992,2026-05-28,0.216,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000485,TXN0001259,2026-07-10,0.759,High Amount,High,Under Review,Escalate,False,False,False,False
+ALRT000486,TXN0001824,2025-07-01,0.457,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000487,TXN0002766,2025-06-19,0.139,Multiple Failures,Low,New,No Action,False,False,False,False
+ALRT000488,TXN0005710,2025-08-08,0.361,Rapid Transactions,Low,New,Escalate,False,False,False,False
+ALRT000489,TXN0001659,2025-10-08,0.402,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000490,TXN0003621,2026-03-17,0.273,Multiple Failures,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000491,TXN0005556,2025-07-18,0.361,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000492,TXN0000508,2026-01-06,0.529,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000493,TXN0004859,2025-03-01,0.756,Multiple Failures,High,Under Review,Escalate,False,False,False,False
+ALRT000494,TXN0004136,2026-01-23,0.181,Rapid Transactions,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000495,TXN0002206,2025-03-25,0.294,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT000496,TXN0004351,2026-09-29,0.275,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT000497,TXN0000382,2025-08-20,0.437,Rapid Transactions,Low,New,Contact Customer,False,False,False,False
+ALRT000498,TXN0001843,2025-11-21,0.357,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000499,TXN0005599,2026-03-06,0.949,Multiple Failures,Critical,Under Review,Contact Customer,False,False,False,False
+ALRT000500,TXN0005500,2025-12-10,0.42,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000501,TXN0001649,2025-11-23,0.296,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000502,TXN0004345,2025-11-28,0.467,International Activity,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000503,TXN0003358,2026-01-05,0.13,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000504,TXN0005409,2025-02-25,0.205,Rapid Transactions,Low,Unknown,No Action,False,True,False,False
+ALRT000505,TXN0000025,2025-09-01,0.841,High Amount,High,Under Review,Escalate,False,False,False,False
+ALRT000506,TXN0006598,2026-01-09,0.04,Multiple Failures,Medium,Cleared,No Action,False,False,False,False
+ALRT000507,TXN0004502,2025-01-06,0.042,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000508,TXN0001281,2026-03-01,0.265,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000509,TXN0000824,2025-02-01,0.331,Rapid Transactions,Medium,Under Review,Escalate,False,False,False,False
+ALRT000510,TXN0000965,2026-09-04,0.66,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000511,TXN0002489,2025-12-26,0.364,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000512,TXN0003025,2025-12-07,0.857,Rapid Transactions,Critical,Under Review,No Action,False,False,False,False
+ALRT000513,TXN0002862,2026-05-26,0.382,International Activity,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000514,TXN0002833,2026-05-22,0.131,Multiple Failures,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000515,TXN0002715,2025-04-12,0.159,International Activity,Medium,Under Review,Escalate,False,False,False,False
+ALRT000516,TXN0004494,2025-02-21,0.129,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000517,TXN0001021,2026-02-22,0.569,Multiple Failures,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000518,TXN0000727,2025-10-29,0.633,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000519,TXN0005650,2026-05-28,0.368,Rapid Transactions,Low,Unknown,Block Transaction,False,True,False,False
+ALRT000520,TXN0005842,2026-09-02,0.794,Rapid Transactions,Critical,New,No Action,False,False,False,False
+ALRT000521,TXN0000317,2025-05-21,0.103,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000522,TXN0002657,2025-11-17,0.354,Rapid Transactions,Medium,Cleared,Escalate,False,False,False,False
+ALRT000523,TXN0006192,2026-09-10,0.363,Unusual Location,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000524,TXN0005713,2025-03-14,0.359,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000525,TXN0006174,2026-09-23,0.456,Unusual Location,Low,Confirmed,Block Transaction,False,False,False,False
+ALRT000526,TXN0004009,2025-05-04,0.966,International Activity,High,Under Review,Contact Customer,False,False,False,False
+ALRT000527,TXN0004236,2026-09-27,0.41,Multiple Failures,Medium,New,Escalate,False,False,False,False
+ALRT000528,TXN0001398,2025-02-04,0.428,Multiple Failures,Low,Under Review,No Action,False,False,False,False
+ALRT000529,TXN0002331,2026-09-12,0.121,Rapid Transactions,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000530,TXN0002808,2025-07-05,0.328,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000531,TXN0004830,2026-07-06,0.334,International Activity,Medium,Under Review,No Action,False,False,False,False
+ALRT000532,TXN0002662,2025-03-16,0.213,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000533,TXN0005296,2026-01-17,0.27,International Activity,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000534,TXN0003026,2026-07-03,0.773,High Amount,High,Confirmed,No Action,False,False,False,False
+ALRT000535,TXN0005131,2026-03-31,0.95,Multiple Failures,Critical,Under Review,Contact Customer,False,False,False,False
+ALRT000536,TXN0006860,2025-06-20,0.352,High Amount,Low,New,Block Transaction,False,False,False,False
+ALRT000537,TXN0004927,2025-05-01,0.789,International Activity,Critical,New,Escalate,False,False,False,False
+ALRT000538,TXN0000906,2026-07-16,0.24,Multiple Failures,Low,New,Contact Customer,False,False,False,False
+ALRT000539,TXN0002542,2025-04-20,0.119,International Activity,Medium,New,No Action,False,False,False,False
+ALRT000540,TXN0004430,2025-06-13,0.322,High Amount,Low,New,Block Transaction,False,False,False,False
+ALRT000541,TXN0001100,2026-06-16,0.133,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000542,TXN0005589,2025-06-12,0.046,Multiple Failures,Medium,New,No Action,False,False,False,False
+ALRT000543,TXN0001358,2025-07-22,0.146,High Amount,Low,Confirmed,Escalate,False,False,False,False
+ALRT000544,TXN0003588,2026-03-06,0.327,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000545,TXN0005276,2025-10-07,0.507,Multiple Failures,Medium,Confirmed,No Action,False,False,False,False
+ALRT000546,TXN0003750,2025-01-27,0.582,High Amount,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000547,TXN0001883,2026-01-31,0.143,Rapid Transactions,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000548,TXN0004501,2025-03-10,0.787,Unusual Location,Critical,Under Review,Block Transaction,False,False,False,False
+ALRT000549,TXN0000209,2025-02-24,0.345,Multiple Failures,Medium,Under Review,Contact Customer,True,False,False,False
+ALRT000550,TXN0003502,2025-07-13,0.119,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000551,TXN0005274,2026-06-26,0.065,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000552,TXN0003058,2026-04-11,0.359,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000553,TXN0004270,2025-08-07,0.222,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000554,TXN0002893,2026-03-31,0.355,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000555,TXN0005385,2025-01-15,0.634,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000556,TXN0004793,2025-10-29,0.085,Unusual Location,Low,Confirmed,Block Transaction,False,False,False,False
+ALRT000557,TXN0000590,2025-12-25,0.949,Unusual Location,High,Under Review,Contact Customer,False,False,False,False
+ALRT000558,TXN0000255,2026-02-03,0.5,Unusual Location,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000559,TXN0003154,2025-09-19,0.287,Unusual Location,Low,New,Escalate,False,False,False,False
+ALRT000560,TXN0005605,2025-01-31,0.628,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000561,TXN0000776,2026-01-20,0.315,High Amount,Low,New,No Action,False,False,False,False
+ALRT000562,TXN0004805,2026-03-12,0.345,International Activity,Medium,Under Review,No Action,True,False,False,False
+ALRT000563,TXN0002052,2026-05-23,0.564,High Amount,Medium,Cleared,Escalate,False,False,False,False
+ALRT000564,TXN0005141,2026-05-15,0.159,High Amount,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000565,TXN0004181,2026-04-20,0.406,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000566,TXN0005126,2026-07-04,0.254,International Activity,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000567,TXN0003497,2025-06-12,0.421,Rapid Transactions,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000568,TXN0003332,2025-05-13,0.873,Unusual Location,High,Cleared,Block Transaction,False,False,False,False
+ALRT000569,TXN0000418,2025-07-19,0.216,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000570,TXN0004651,2025-08-19,0.946,International Activity,Critical,Cleared,Contact Customer,False,False,False,False
+ALRT000571,TXN0002374,2025-04-24,0.442,High Amount,Low,New,No Action,False,False,False,False
+ALRT000572,TXN0000991,2025-04-01,0.195,International Activity,Medium,Unknown,Block Transaction,False,True,False,False
+ALRT000573,TXN0006429,2025-01-22,0.954,High Amount,High,Cleared,Escalate,False,False,False,False
+ALRT000574,TXN0002210,2025-01-18,0.16,Multiple Failures,Low,New,Contact Customer,False,False,False,False
+ALRT000575,TXN0003878,2025-02-16,0.902,Rapid Transactions,High,Under Review,No Action,False,False,False,False
+ALRT000576,TXN0000803,2025-09-15,0.537,High Amount,Medium,Confirmed,No Action,False,False,False,False
+ALRT000577,TXN0001582,2026-01-18,0.21,High Amount,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000578,TXN0004667,2025-03-05,0.094,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000579,TXN0002922,2026-09-15,0.245,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000580,TXN0000467,2025-12-25,0.131,Unusual Location,Medium,Under Review,No Action,False,False,False,False
+ALRT000581,TXN0001953,2025-12-03,0.932,International Activity,Critical,Cleared,Block Transaction,False,False,False,False
+ALRT000582,TXN0001554,2026-05-13,0.225,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000583,TXN0005615,2025-10-05,0.357,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000584,TXN0006564,2026-08-08,0.386,Unusual Location,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000585,TXN0003175,2026-07-20,0.317,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000586,TXN0005796,2025-11-18,0.335,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000587,TXN0005478,2025-05-15,0.227,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000588,TXN0006454,2025-05-16,0.287,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000589,TXN0005735,2026-06-28,0.552,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000590,TXN0002626,2025-08-18,0.882,High Amount,Low,Confirmed,No Action,False,False,False,True
+ALRT000591,TXN0005591,2026-03-11,0.771,Rapid Transactions,Critical,Cleared,Escalate,False,False,False,False
+ALRT000592,TXN0004643,2026-08-27,0.452,International Activity,Medium,New,No Action,False,False,False,False
+ALRT000593,TXN0002408,2025-03-22,0.941,Multiple Failures,High,New,Escalate,False,False,False,False
+ALRT000594,TXN0001907,2025-12-05,0.956,Multiple Failures,Critical,Under Review,Block Transaction,False,False,False,False
+ALRT000595,TXN0000731,2025-09-12,0.847,Rapid Transactions,High,New,Contact Customer,False,False,False,False
+ALRT000596,TXN0002900,2025-04-21,0.475,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000597,TXN0002672,2026-01-28,0.147,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000598,TXN0000369,2026-03-30,0.76,International Activity,High,Cleared,Block Transaction,False,False,False,False
+ALRT000599,TXN0005375,2026-04-27,0.225,International Activity,Medium,New,Block Transaction,False,False,False,False
+ALRT000600,TXN0005130,2025-01-26,0.251,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000601,TXN0001683,2025-05-12,0.925,Multiple Failures,High,Under Review,Escalate,False,False,False,False
+ALRT000602,TXN0003462,2026-01-21,0.624,High Amount,Medium,New,Escalate,False,False,False,False
+ALRT000603,TXN0005742,2026-06-06,0.345,Unusual Location,Low,Cleared,Contact Customer,True,False,False,False
+ALRT000604,TXN0001943,2026-02-19,0.269,Multiple Failures,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000605,TXN0000807,2025-04-07,0.188,Rapid Transactions,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000606,TXN0005663,2025-03-16,0.133,Rapid Transactions,Low,Confirmed,Escalate,False,False,False,False
+ALRT000607,TXN0005758,2026-02-28,0.817,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000608,TXN0006894,2025-01-13,0.445,Unusual Location,Low,New,Contact Customer,False,False,False,False
+ALRT000609,TXN0006178,2026-09-22,0.853,Unusual Location,High,Cleared,Escalate,False,False,False,False
+ALRT000610,TXN0002888,2026-09-08,0.12,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000611,TXN0003193,2026-03-06,0.384,International Activity,Medium,Under Review,Escalate,False,False,False,False
+ALRT000612,TXN0005860,2026-09-23,0.465,High Amount,Low,New,Block Transaction,False,False,False,False
+ALRT000613,TXN0000425,2025-02-28,0.18,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000614,TXN0004168,2026-03-01,0.088,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000615,TXN0003770,2026-07-20,0.346,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000616,TXN0006657,2025-05-05,0.389,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000617,TXN0001919,2025-01-04,0.34,High Amount,Low,Confirmed,Contact Customer,False,False,False,False
+ALRT000618,TXN0005760,2025-07-15,0.307,International Activity,Low,Confirmed,No Action,False,False,False,False
+ALRT000619,TXN0000843,2025-06-23,0.345,International Activity,Low,New,No Action,True,False,False,False
+ALRT000620,TXN0005643,2026-07-01,0.746,Multiple Failures,Low,Confirmed,Block Transaction,False,False,False,True
+ALRT000621,TXN0002204,2026-09-21,0.154,Multiple Failures,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000622,TXN0001990,2025-06-30,0.697,Unusual Location,High,Under Review,Escalate,False,False,False,False
+ALRT000623,TXN0006821,2025-11-05,0.682,High Amount,High,New,Block Transaction,False,False,False,False
+ALRT000624,TXN0003373,2025-10-08,0.345,Multiple Failures,Low,Cleared,Contact Customer,True,False,False,False
+ALRT000625,TXN0003436,2025-05-24,0.133,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000626,TXN0006968,2025-06-17,0.249,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000627,TXN0005152,2025-01-09,0.345,Multiple Failures,Low,Under Review,No Action,True,False,False,False
+ALRT000628,TXN0002312,2025-05-23,0.489,Unusual Location,Medium,Under Review,No Action,False,False,False,False
+ALRT000629,TXN0001485,2026-03-31,0.028,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000630,TXN0001738,2025-09-14,0.152,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000631,TXN0002620,2025-02-12,0.083,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000632,TXN0002271,2026-03-24,0.148,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000633,TXN0003488,2026-04-15,0.145,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000634,TXN0002919,2026-07-26,0.312,Rapid Transactions,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000635,TXN0003922,2026-06-29,0.096,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000636,TXN0003421,2026-04-04,0.713,Rapid Transactions,High,Under Review,Contact Customer,False,False,False,False
+ALRT000637,TXN0002840,2025-01-16,0.044,Multiple Failures,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000638,TXN0004884,2026-07-10,0.663,International Activity,High,Cleared,Block Transaction,False,False,False,False
+ALRT000639,TXN0006367,2025-01-30,0.093,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000640,TXN0002774,2025-01-10,0.819,International Activity,High,Cleared,Block Transaction,False,False,False,False
+ALRT000641,TXN0003654,2026-07-20,0.193,International Activity,Low,New,No Action,False,False,False,False
+ALRT000642,TXN0006732,2026-08-12,0.496,Unusual Location,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000643,TXN0002990,2026-05-22,0.206,Rapid Transactions,Low,Confirmed,Escalate,False,False,False,False
+ALRT000644,TXN0006486,2025-03-29,0.164,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000645,TXN0002950,2025-09-14,0.227,Rapid Transactions,Medium,Unknown,Escalate,False,True,False,False
+ALRT000646,TXN0001303,2026-01-28,0.255,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000647,TXN0002532,2026-09-28,0.09,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000648,TXN0002182,2025-02-02,0.381,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000649,TXN0002024,2025-02-01,0.272,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000650,TXN0000463,2025-07-28,0.382,Multiple Failures,Low,New,Contact Customer,False,False,False,False
+ALRT000651,TXN0006445,2026-02-12,0.869,Multiple Failures,High,New,Block Transaction,False,False,False,False
+ALRT000652,TXN0002496,2026-07-23,0.686,Unusual Location,High,Under Review,Block Transaction,False,False,False,False
+ALRT000653,TXN0000149,2026-04-08,0.171,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000654,TXN0004273,2025-09-07,0.181,Unusual Location,Low,Confirmed,Escalate,False,False,False,False
+ALRT000655,TXN0005627,2025-03-19,0.391,Unusual Location,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000656,TXN0001350,2026-04-14,0.9,International Activity,High,Cleared,Escalate,False,False,False,False
+ALRT000657,TXN0003797,2025-03-31,0.713,High Amount,High,Under Review,Escalate,False,False,False,False
+ALRT000658,TXN0005786,2025-04-08,0.749,High Amount,High,Under Review,Contact Customer,False,False,False,False
+ALRT000659,TXN0006318,2025-06-02,0.137,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000660,TXN0006203,2025-08-24,0.59,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000661,TXN0001159,2026-07-20,0.965,International Activity,High,Cleared,Block Transaction,False,False,False,False
+ALRT000662,TXN0003914,2026-04-12,0.305,Rapid Transactions,Low,New,Contact Customer,False,False,False,False
+ALRT000663,TXN0002257,2025-06-02,0.931,High Amount,High,Cleared,Escalate,False,False,False,False
+ALRT000664,TXN0003860,2025-11-18,0.236,International Activity,Low,Under Review,No Action,False,False,False,False
+ALRT000665,TXN0005998,2025-01-22,0.291,Unusual Location,Medium,Cleared,Escalate,False,False,False,False
+ALRT000666,TXN0001796,2026-02-27,0.51,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000667,TXN0006144,2025-08-13,0.181,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000668,TXN0005349,2025-05-12,0.07,High Amount,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000669,TXN0002028,2025-02-07,0.47,International Activity,Medium,New,Contact Customer,False,False,False,False
+ALRT000670,TXN0001869,2025-03-22,0.099,Unusual Location,Medium,Cleared,Escalate,False,False,False,False
+ALRT000671,TXN0001599,2025-10-26,0.194,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000672,TXN0005927,2025-04-14,0.831,Multiple Failures,Critical,Cleared,Escalate,False,False,False,False
+ALRT000673,TXN0004913,2026-03-15,0.705,International Activity,High,Under Review,Contact Customer,False,False,False,False
+ALRT000674,TXN0001946,2025-09-06,0.248,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000675,TXN0006634,2025-05-15,0.349,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000676,TXN0004720,2025-05-24,0.422,Unusual Location,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000677,TXN0006938,2026-05-08,0.125,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000678,TXN0002704,2025-07-09,0.458,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000679,TXN0001005,2026-08-26,0.517,Unusual Location,Low,Confirmed,No Action,False,False,False,False
+ALRT000680,TXN0002137,2025-06-13,0.651,Multiple Failures,Medium,Under Review,No Action,False,False,False,False
+ALRT000681,TXN0000646,2025-08-27,0.335,International Activity,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000682,TXN0003416,2026-03-22,0.87,Rapid Transactions,High,New,No Action,False,False,False,False
+ALRT000683,TXN0004055,2025-08-20,0.224,High Amount,Medium,New,Escalate,False,False,False,False
+ALRT000684,TXN0002259,2025-03-27,0.932,Unusual Location,High,Cleared,Contact Customer,False,False,False,False
+ALRT000685,TXN0004426,2025-11-30,0.972,Rapid Transactions,High,Confirmed,Escalate,False,False,False,False
+ALRT000686,TXN0002430,2025-05-10,0.316,International Activity,Medium,Cleared,Escalate,False,False,False,False
+ALRT000687,TXN0000070,2026-03-03,0.124,Rapid Transactions,Medium,Confirmed,Contact Customer,False,False,False,False
+ALRT000688,TXN0003270,2025-03-06,0.328,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000689,TXN0004811,2025-04-29,0.272,Unusual Location,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000690,TXN0004989,2025-01-25,0.175,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000691,TXN0003220,2026-04-11,0.224,International Activity,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000692,TXN0004889,2026-08-22,0.523,Multiple Failures,Medium,Cleared,No Action,False,False,False,False
+ALRT000693,TXN0002890,2025-10-18,0.968,International Activity,High,New,Escalate,False,False,False,False
+ALRT000694,TXN0002115,2025-08-28,0.133,Rapid Transactions,Low,Under Review,No Action,False,False,False,False
+ALRT000695,TXN0002274,2026-07-17,0.059,International Activity,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000696,TXN0002232,2025-11-27,0.948,Rapid Transactions,Critical,Under Review,No Action,False,False,False,False
+ALRT000697,TXN0002748,2025-06-04,0.344,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000698,TXN0004445,2025-12-08,0.371,Unusual Location,Medium,Under Review,Escalate,False,False,False,False
+ALRT000699,TXN0006301,2025-03-30,0.477,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000700,TXN0006756,2026-07-20,0.172,Multiple Failures,Medium,New,Escalate,False,False,False,False
+ALRT000701,TXN0005690,2026-02-13,0.037,Rapid Transactions,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000702,TXN0006712,2026-01-28,0.117,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000703,TXN0002783,2025-02-12,0.102,Unusual Location,Medium,Unknown,No Action,False,True,False,False
+ALRT000704,TXN0004238,2026-07-18,0.923,Unusual Location,High,Confirmed,No Action,False,False,False,False
+ALRT000705,TXN0003263,2025-03-14,0.126,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000706,TXN0005567,2026-03-18,0.689,Multiple Failures,High,New,Contact Customer,False,False,False,False
+ALRT000707,TXN0005284,2026-09-24,0.685,International Activity,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000708,TXN0000982,2026-07-21,0.307,High Amount,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000709,TXN0000525,2025-11-06,0.26,Multiple Failures,Low,Under Review,No Action,False,False,False,False
+ALRT000710,TXN0004627,2025-06-22,0.222,Multiple Failures,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000711,TXN0002456,2026-09-18,0.637,Unusual Location,Medium,New,Block Transaction,False,False,False,False
+ALRT000712,TXN0000781,2026-04-12,0.232,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000713,TXN0006942,2026-07-15,0.107,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT000714,TXN0003243,2026-09-27,0.394,International Activity,Medium,New,Block Transaction,False,False,False,False
+ALRT000715,TXN0001431,2026-04-25,0.697,Unusual Location,High,New,Block Transaction,False,False,False,False
+ALRT000716,TXN0002362,2025-03-21,0.196,International Activity,Low,Confirmed,Contact Customer,False,False,False,False
+ALRT000717,TXN0003663,2026-06-27,0.237,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000718,TXN0005594,2026-01-01,0.2,International Activity,Low,New,No Action,False,False,False,False
+ALRT000719,TXN0001428,2025-04-06,0.162,International Activity,Low,New,Escalate,False,False,False,False
+ALRT000720,TXN0000384,2025-03-17,0.505,Unusual Location,Medium,New,Contact Customer,False,False,False,False
+ALRT000721,TXN0001798,2025-11-11,0.928,Rapid Transactions,High,Cleared,Escalate,False,False,False,False
+ALRT000722,TXN0004217,2025-04-08,0.811,Multiple Failures,High,Confirmed,No Action,False,False,False,False
+ALRT000723,TXN0001660,2026-06-10,0.192,Rapid Transactions,Medium,New,Escalate,False,False,False,False
+ALRT000724,TXN0006331,2025-03-24,0.337,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000725,TXN0006722,2025-01-30,0.151,Unusual Location,Medium,New,Block Transaction,False,False,False,False
+ALRT000726,TXN0006455,2026-07-24,0.294,High Amount,Low,Confirmed,Block Transaction,False,False,False,False
+ALRT000727,TXN0003020,2025-06-11,0.898,Multiple Failures,High,Under Review,Contact Customer,False,False,False,False
+ALRT000728,TXN0001396,2025-06-09,0.389,International Activity,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000729,TXN0003625,2025-02-03,0.075,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000730,TXN0000524,2026-07-12,0.39,International Activity,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000731,TXN0006839,2026-06-01,0.8,Rapid Transactions,High,New,Escalate,False,False,False,False
+ALRT000732,TXN0005607,2026-05-18,0.602,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000733,TXN0005022,2025-07-23,0.183,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT000734,TXN0004004,2025-02-14,0.681,Multiple Failures,High,Cleared,No Action,False,False,False,False
+ALRT000735,TXN0004060,2026-06-22,0.925,Unusual Location,High,Cleared,Contact Customer,False,False,False,False
+ALRT000736,TXN0005246,2025-08-21,0.523,Multiple Failures,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000737,TXN0005306,2025-11-27,0.066,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000738,TXN0005873,2026-09-19,0.66,Unusual Location,Critical,Cleared,Block Transaction,False,False,False,True
+ALRT000739,TXN0005436,2025-03-22,0.8,Rapid Transactions,High,New,Escalate,False,False,False,False
+ALRT000740,TXN0006426,2026-09-20,0.13,Multiple Failures,Low,Confirmed,Escalate,False,False,False,False
+ALRT000741,TXN0003109,2026-04-14,0.139,High Amount,Low,Under Review,Escalate,False,False,False,False
+ALRT000742,TXN0002797,2026-03-04,0.264,Multiple Failures,Medium,New,Block Transaction,False,False,False,False
+ALRT000743,TXN0004146,2025-11-03,0.309,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000744,TXN0004072,2026-09-30,0.119,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT000745,TXN0006550,2025-02-21,0.389,High Amount,Low,New,Block Transaction,False,False,False,False
+ALRT000746,TXN0003067,2025-07-13,0.189,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000747,TXN0001890,2026-04-21,0.142,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT000748,TXN0006627,2026-04-07,0.436,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000749,TXN0001722,2025-04-27,0.078,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000750,TXN0003598,2026-09-02,0.316,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT000751,TXN0000271,2025-09-10,0.426,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000752,TXN0005856,2026-08-22,0.396,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000753,TXN0004259,2025-02-27,0.815,Unusual Location,Critical,New,Block Transaction,False,False,False,False
+ALRT000754,TXN0001918,2026-03-15,0.254,International Activity,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000755,TXN0000406,2026-01-16,0.362,International Activity,Medium,New,Escalate,False,False,False,False
+ALRT000756,TXN0006700,2025-04-17,0.118,Unusual Location,Medium,Under Review,No Action,False,False,False,False
+ALRT000757,TXN0001657,2026-01-11,0.176,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000758,TXN0001113,2026-01-22,0.789,International Activity,Low,New,Contact Customer,False,False,False,True
+ALRT000759,TXN0003467,2026-07-13,0.378,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000760,TXN0004206,2026-01-26,0.726,International Activity,Critical,Under Review,No Action,False,False,False,False
+ALRT000761,TXN0000324,2025-09-27,0.094,Unusual Location,Low,New,Block Transaction,False,False,False,False
+ALRT000762,TXN0000994,2025-09-03,0.036,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000763,TXN0000081,2026-02-02,0.45,Multiple Failures,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000764,TXN0001607,2025-09-01,0.346,High Amount,Medium,New,Escalate,False,False,False,False
+ALRT000765,TXN0000262,2025-04-30,0.154,International Activity,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000766,TXN0002026,2025-05-05,0.981,Multiple Failures,Critical,Under Review,Contact Customer,False,False,False,False
+ALRT000767,TXN0006584,2026-04-28,0.1,International Activity,Low,Under Review,No Action,False,False,False,False
+ALRT000768,TXN0004410,2025-05-10,0.584,Rapid Transactions,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000769,TXN0004291,2026-04-21,0.914,Unusual Location,High,Cleared,Block Transaction,False,False,False,False
+ALRT000770,TXN0002651,2025-01-04,0.664,High Amount,High,Confirmed,No Action,False,False,False,False
+ALRT000771,TXN0004615,2025-04-29,0.916,Unusual Location,High,Confirmed,Contact Customer,False,False,False,False
+ALRT000772,TXN0002762,2026-02-09,0.814,Multiple Failures,High,Under Review,Block Transaction,False,False,False,False
+ALRT000773,TXN0002126,2026-06-20,0.431,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000774,TXN0002920,2025-03-06,0.124,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000775,TXN0001381,2026-09-16,0.214,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000776,TXN0002477,2025-08-20,0.85,Unusual Location,Critical,Cleared,Contact Customer,False,False,False,False
+ALRT000777,TXN0006517,2026-05-24,0.501,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000778,TXN0005319,2025-11-02,0.174,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000779,TXN0005347,2025-11-09,0.111,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000780,TXN0005601,2026-01-22,0.427,Multiple Failures,Low,Cleared,No Action,False,False,False,False
+ALRT000781,TXN0000340,2025-01-01,0.373,Unusual Location,Low,Confirmed,Escalate,False,False,False,False
+ALRT000782,TXN0005769,2026-09-13,0.215,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT000783,TXN0005828,2025-04-10,0.36,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000784,TXN0006469,2025-03-06,0.574,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000785,TXN0000029,2025-01-29,0.179,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000786,TXN0001861,2025-04-21,0.194,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000787,TXN0005344,2025-06-26,0.767,Rapid Transactions,High,Cleared,Contact Customer,False,False,False,False
+ALRT000788,TXN0000394,2025-06-26,0.351,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000789,TXN0004639,2026-01-10,0.222,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000790,TXN0004318,2025-01-05,0.453,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000791,TXN0006365,2026-05-13,0.865,International Activity,High,Cleared,No Action,False,False,False,False
+ALRT000792,TXN0002046,2025-10-09,0.724,Multiple Failures,Critical,New,No Action,False,False,False,False
+ALRT000793,TXN0005623,2026-09-21,0.396,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000794,TXN0003106,2026-05-21,0.507,Rapid Transactions,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000795,TXN0002648,2026-03-07,0.791,Rapid Transactions,High,Cleared,Escalate,False,False,False,False
+ALRT000796,TXN0003490,2026-09-30,0.073,High Amount,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000797,TXN0005383,2026-07-16,0.151,International Activity,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000798,TXN0002385,2025-05-07,0.444,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000799,TXN0001975,2026-07-06,0.185,Unusual Location,Low,Cleared,Escalate,False,False,False,False
+ALRT000800,TXN0004048,2025-02-15,0.314,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000801,TXN0005061,2026-08-20,0.562,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000802,TXN0002941,2026-08-24,0.074,Rapid Transactions,Medium,Confirmed,Contact Customer,False,False,False,False
+ALRT000803,TXN0002194,2026-07-15,0.672,High Amount,High,Under Review,Contact Customer,False,False,False,False
+ALRT000804,TXN0002928,2026-01-12,0.964,Unusual Location,High,New,No Action,False,False,False,False
+ALRT000805,TXN0003112,2026-05-08,0.82,Unusual Location,Critical,Cleared,No Action,False,False,False,False
+ALRT000806,TXN0004003,2025-09-03,0.253,High Amount,Low,Cleared,Escalate,False,False,False,False
+ALRT000807,TXN0004213,2025-05-29,0.17,Rapid Transactions,Medium,Cleared,Escalate,False,False,False,False
+ALRT000808,TXN0001221,2025-01-14,0.396,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000809,TXN0005621,2025-07-23,0.191,High Amount,Medium,Cleared,Escalate,False,False,False,False
+ALRT000810,TXN0003128,2026-07-23,0.126,International Activity,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000811,TXN0000088,2026-01-14,0.161,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000812,TXN0006197,2026-08-26,0.4,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000813,TXN0005292,2025-08-21,0.661,International Activity,High,Cleared,No Action,False,False,False,False
+ALRT000814,TXN0004644,2025-01-12,0.687,High Amount,Critical,Cleared,No Action,False,False,False,True
+ALRT000815,TXN0005112,2026-04-12,0.286,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000816,TXN0004499,2026-03-26,0.981,Multiple Failures,High,Cleared,Escalate,False,False,False,False
+ALRT000817,TXN0003495,2025-09-24,0.486,International Activity,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000818,TXN0005268,2025-06-02,0.883,Unusual Location,Critical,Cleared,Escalate,False,False,False,False
+ALRT000819,TXN0001702,2025-04-02,0.188,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000820,TXN0000155,2025-03-24,0.345,High Amount,High,New,Escalate,True,False,False,True
+ALRT000821,TXN0003606,2025-08-17,0.274,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000822,TXN0004746,2025-01-19,0.356,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT000823,TXN0005157,2026-05-25,0.345,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT000824,TXN0004579,2025-01-26,0.245,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000825,TXN0004488,2025-05-04,0.342,Multiple Failures,Medium,New,No Action,False,False,False,False
+ALRT000826,TXN0004600,2025-08-16,0.755,International Activity,High,Under Review,Block Transaction,False,False,False,False
+ALRT000827,TXN0003635,2026-06-20,0.439,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000828,TXN0000763,2025-07-31,0.159,International Activity,Low,Confirmed,Contact Customer,False,False,False,False
+ALRT000829,TXN0000099,2026-07-03,0.826,International Activity,High,Unknown,Escalate,False,True,False,False
+ALRT000830,TXN0006502,2026-03-21,0.302,Rapid Transactions,Low,Under Review,Escalate,False,False,False,False
+ALRT000831,TXN0002616,2025-07-02,0.677,Rapid Transactions,Critical,New,Contact Customer,False,False,False,True
+ALRT000832,TXN0003513,2025-10-04,0.272,International Activity,Low,New,Contact Customer,False,False,False,False
+ALRT000833,TXN0001979,2025-12-02,0.757,Rapid Transactions,High,New,Escalate,False,False,False,False
+ALRT000834,TXN0006961,2025-02-19,0.71,International Activity,High,Cleared,Escalate,False,False,False,False
+ALRT000835,TXN0001371,2025-05-15,0.188,Unusual Location,Medium,Confirmed,Contact Customer,False,False,False,False
+ALRT000836,TXN0006592,2026-01-09,0.517,Rapid Transactions,Medium,Under Review,Escalate,False,False,False,False
+ALRT000837,TXN0004447,2025-06-11,0.45,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000838,TXN0001876,2025-11-27,0.269,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000839,TXN0000698,2026-04-14,0.181,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT000840,TXN0001922,2025-08-15,0.498,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000841,TXN0004673,2025-10-07,0.112,Multiple Failures,Medium,New,Contact Customer,False,False,False,False
+ALRT000842,TXN0006179,2025-06-30,0.211,International Activity,Low,New,Block Transaction,False,False,False,False
+ALRT000843,TXN0003012,2025-09-07,0.111,High Amount,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000844,TXN0002628,2026-08-08,0.23,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000845,TXN0002942,2025-10-18,0.228,International Activity,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000846,TXN0006215,2026-05-03,0.096,Unusual Location,Low,New,Escalate,False,False,False,False
+ALRT000847,TXN0004632,2026-06-12,0.339,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000848,TXN0003155,2026-09-27,0.401,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT000849,TXN0003861,2025-04-29,0.448,Multiple Failures,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000850,TXN0006351,2026-01-06,0.257,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000851,TXN0004957,2025-09-30,0.444,International Activity,Medium,Cleared,No Action,False,False,False,False
+ALRT000852,TXN0003198,2026-01-12,0.501,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000853,TXN0001764,2026-06-30,0.285,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000854,TXN0001046,2026-06-11,0.158,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT000855,TXN0000376,2025-04-10,0.838,Unusual Location,High,Cleared,No Action,False,False,False,False
+ALRT000856,TXN0005082,2025-01-30,0.555,Rapid Transactions,Medium,Cleared,Escalate,False,False,False,False
+ALRT000857,TXN0005977,2025-01-23,0.337,Multiple Failures,Low,New,Contact Customer,False,False,False,False
+ALRT000858,TXN0004874,2026-07-23,0.136,High Amount,Medium,Under Review,No Action,False,False,False,False
+ALRT000859,TXN0003283,2025-10-28,0.089,International Activity,Low,Under Review,No Action,False,False,False,False
+ALRT000860,TXN0000644,2025-04-30,0.735,Multiple Failures,High,Under Review,No Action,False,False,False,False
+ALRT000861,TXN0004162,2026-04-09,0.197,High Amount,Low,Under Review,Escalate,False,False,False,False
+ALRT000862,TXN0002871,2026-08-08,0.101,High Amount,Medium,Under Review,No Action,False,False,False,False
+ALRT000863,TXN0004690,2025-06-30,0.865,Unusual Location,High,Cleared,Block Transaction,False,False,False,False
+ALRT000864,TXN0003266,2026-06-19,0.008,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000865,TXN0002812,2025-09-07,0.735,Rapid Transactions,High,Cleared,Block Transaction,False,False,False,False
+ALRT000866,TXN0005185,2026-07-06,0.184,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000867,TXN0001651,2026-07-01,0.409,High Amount,Low,New,Escalate,False,False,False,False
+ALRT000868,TXN0004127,2026-03-11,0.21,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000869,TXN0001210,2026-05-03,0.221,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000870,TXN0003972,2026-06-19,0.366,Rapid Transactions,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000871,TXN0005818,2026-07-11,0.154,Rapid Transactions,Low,New,Contact Customer,False,False,False,False
+ALRT000872,TXN0006189,2026-06-18,0.084,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT000873,TXN0000752,2025-04-22,0.373,Rapid Transactions,Low,Confirmed,No Action,False,False,False,False
+ALRT000874,TXN0005811,2025-07-15,0.623,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000875,TXN0004661,2026-08-27,0.358,Multiple Failures,Medium,New,Contact Customer,False,False,False,False
+ALRT000876,TXN0000711,2025-07-28,0.967,High Amount,High,Confirmed,Escalate,False,False,False,False
+ALRT000877,TXN0006257,2026-07-19,0.954,Rapid Transactions,High,New,No Action,False,False,False,False
+ALRT000878,TXN0002565,2026-05-18,0.241,High Amount,Low,Cleared,Escalate,False,False,False,False
+ALRT000879,TXN0002253,2025-10-17,0.06,International Activity,Medium,Confirmed,No Action,False,False,False,False
+ALRT000880,TXN0003803,2026-05-08,0.594,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000881,TXN0005086,2025-04-05,0.552,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT000882,TXN0005691,2025-07-29,0.744,Multiple Failures,Critical,Under Review,Escalate,False,False,False,False
+ALRT000883,TXN0006297,2026-09-01,0.451,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000884,TXN0000167,2026-05-29,0.263,International Activity,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000885,TXN0003688,2025-04-10,0.684,International Activity,High,Cleared,Contact Customer,False,False,False,False
+ALRT000886,TXN0003634,2026-04-25,0.189,International Activity,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000887,TXN0005853,2026-01-26,0.065,Multiple Failures,Medium,New,Contact Customer,False,False,False,False
+ALRT000888,TXN0006392,2026-04-16,0.454,International Activity,Medium,New,Escalate,False,False,False,False
+ALRT000889,TXN0003857,2025-04-04,0.557,Unusual Location,Medium,Under Review,Escalate,False,False,False,False
+ALRT000890,TXN0002519,2026-08-25,0.841,High Amount,High,Under Review,No Action,False,False,False,False
+ALRT000891,TXN0006156,2025-04-30,0.452,High Amount,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000892,TXN0000948,2025-01-15,0.222,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000893,TXN0003756,2025-10-11,0.466,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000894,TXN0000295,2025-09-30,0.257,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT000895,TXN0002059,2025-11-02,0.407,Unusual Location,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT000896,TXN0004235,2025-08-11,0.342,Unusual Location,Medium,Confirmed,Block Transaction,False,False,False,False
+ALRT000897,TXN0001169,2025-10-18,0.2,Rapid Transactions,Low,New,Block Transaction,False,False,False,False
+ALRT000898,TXN0004487,2025-04-27,0.676,Unusual Location,High,Cleared,Contact Customer,False,False,False,False
+ALRT000899,TXN0002236,2025-02-10,0.689,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000900,TXN0001700,2026-03-20,0.166,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000901,TXN0000432,2026-09-30,0.263,High Amount,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000902,TXN0001932,2026-03-15,0.392,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000903,TXN0006945,2025-01-30,0.121,Unusual Location,Low,New,Block Transaction,False,False,False,False
+ALRT000904,TXN0003410,2025-11-09,0.263,International Activity,Medium,New,Block Transaction,False,False,False,False
+ALRT000905,TXN0006576,2025-05-14,0.266,Multiple Failures,Low,Confirmed,No Action,False,False,False,False
+ALRT000906,TXN0001730,2026-01-03,0.042,Multiple Failures,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000907,TXN0005116,2026-03-26,0.383,International Activity,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000908,TXN0000517,2025-11-16,0.447,Multiple Failures,Low,New,Block Transaction,False,False,False,False
+ALRT000909,TXN0003314,2026-08-29,0.095,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000910,TXN0004610,2026-05-18,0.665,High Amount,High,New,Escalate,False,False,False,False
+ALRT000911,TXN0002450,2025-02-28,0.143,High Amount,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000912,TXN0001621,2025-10-28,0.196,Rapid Transactions,Low,Confirmed,Block Transaction,False,False,False,False
+ALRT000913,TXN0004301,2025-05-25,0.806,High Amount,Critical,Confirmed,No Action,False,False,False,False
+ALRT000914,TXN0006777,2026-09-14,0.839,Unusual Location,High,New,Block Transaction,False,False,False,False
+ALRT000915,TXN0003810,2026-01-16,0.72,International Activity,Critical,New,Block Transaction,False,False,False,False
+ALRT000916,TXN0000723,2025-11-02,0.971,Unusual Location,High,Cleared,Block Transaction,False,False,False,False
+ALRT000917,TXN0002586,2025-12-14,0.408,Rapid Transactions,Medium,New,Block Transaction,False,False,False,False
+ALRT000918,TXN0000300,2025-10-22,0.284,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000919,TXN0001135,2026-03-07,0.388,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000920,TXN0002394,2025-04-02,0.809,International Activity,High,New,Block Transaction,False,False,False,False
+ALRT000921,TXN0000013,2025-03-27,0.345,International Activity,Low,Under Review,Block Transaction,True,False,False,False
+ALRT000922,TXN0000857,2025-08-11,0.227,High Amount,Medium,Under Review,Escalate,False,False,False,False
+ALRT000923,TXN0003687,2026-05-26,0.449,International Activity,Medium,Confirmed,No Action,False,False,False,False
+ALRT000924,TXN0005969,2026-05-23,0.893,International Activity,High,Under Review,Escalate,False,False,False,False
+ALRT000925,TXN0005119,2025-10-10,0.795,Multiple Failures,High,New,Escalate,False,False,False,False
+ALRT000926,TXN0005295,2026-05-06,0.28,International Activity,Low,New,No Action,False,False,False,False
+ALRT000927,TXN0006844,2025-03-15,0.127,Unusual Location,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000928,TXN0003561,2025-06-30,0.319,Multiple Failures,Low,Confirmed,No Action,False,False,False,False
+ALRT000929,TXN0002399,2025-11-23,0.653,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000930,TXN0000480,2026-05-05,0.522,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT000931,TXN0003976,2025-05-22,0.245,Rapid Transactions,Low,Cleared,No Action,False,False,False,False
+ALRT000932,TXN0000928,2025-10-01,0.099,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000933,TXN0003830,2025-07-22,0.132,International Activity,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000934,TXN0005700,2026-07-27,0.345,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000935,TXN0000253,2026-06-20,0.163,Multiple Failures,Low,Cleared,Contact Customer,False,False,False,False
+ALRT000936,TXN0004549,2025-09-29,0.651,Unusual Location,High,New,Contact Customer,False,False,False,False
+ALRT000937,TXN0003127,2026-04-24,0.269,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT000938,TXN0002423,2025-09-22,0.345,International Activity,Critical,Under Review,No Action,True,False,False,True
+ALRT000939,TXN0006869,2026-03-12,0.303,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000940,TXN0000275,2026-09-13,0.783,Multiple Failures,High,New,Block Transaction,False,False,False,False
+ALRT000941,TXN0005858,2025-09-27,0.078,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT000942,TXN0003073,2026-09-06,0.074,Rapid Transactions,Low,New,No Action,False,False,False,False
+ALRT000943,TXN0003962,2026-09-25,0.298,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000944,TXN0002989,2025-11-21,0.738,High Amount,High,New,Escalate,False,False,False,False
+ALRT000945,TXN0005121,2026-03-19,0.26,International Activity,Medium,New,Block Transaction,False,False,False,False
+ALRT000946,TXN0003610,2026-05-29,0.424,High Amount,Low,New,Contact Customer,False,False,False,False
+ALRT000947,TXN0004655,2025-06-30,0.147,Multiple Failures,Low,Under Review,Escalate,False,False,False,False
+ALRT000948,TXN0001892,2025-12-17,0.259,International Activity,Medium,Cleared,No Action,False,False,False,False
+ALRT000949,TXN0006662,2025-06-18,0.891,Unusual Location,High,Under Review,Escalate,False,False,False,False
+ALRT000950,TXN0000386,2026-06-15,0.863,Rapid Transactions,High,New,Block Transaction,False,False,False,False
+ALRT000951,TXN0005754,2025-03-27,0.231,Rapid Transactions,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000952,TXN0004062,2026-05-29,0.434,Rapid Transactions,Medium,Under Review,Escalate,False,False,False,False
+ALRT000953,TXN0005389,2025-12-17,0.474,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT000954,TXN0005764,2026-05-30,0.402,High Amount,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000955,TXN0004513,2025-07-09,0.956,International Activity,High,New,No Action,False,False,False,False
+ALRT000956,TXN0001539,2025-05-09,0.185,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000957,TXN0000977,2025-05-15,0.522,Unusual Location,Low,Cleared,No Action,False,False,False,False
+ALRT000958,TXN0002245,2025-08-22,0.889,Rapid Transactions,High,New,No Action,False,False,False,False
+ALRT000959,TXN0005568,2026-04-21,0.416,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000960,TXN0005114,2026-06-17,0.735,International Activity,High,Under Review,No Action,False,False,False,False
+ALRT000961,TXN0004251,2025-11-06,0.308,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT000962,TXN0002966,2026-08-07,0.802,Rapid Transactions,High,Cleared,No Action,False,False,False,False
+ALRT000963,TXN0002156,2026-05-24,0.207,International Activity,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000964,TXN0000882,2025-11-28,0.858,International Activity,High,New,Contact Customer,False,False,False,False
+ALRT000965,TXN0004929,2026-07-08,0.27,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000966,TXN0003148,2025-03-16,0.101,Multiple Failures,Medium,Confirmed,Escalate,False,False,False,False
+ALRT000967,TXN0005962,2025-01-13,0.381,International Activity,Low,New,Contact Customer,False,False,False,False
+ALRT000968,TXN0005102,2025-01-05,0.184,High Amount,Low,Under Review,Escalate,False,False,False,False
+ALRT000969,TXN0001784,2025-05-04,0.954,Unusual Location,High,Cleared,Escalate,False,False,False,False
+ALRT000970,TXN0001144,2026-04-24,0.906,High Amount,High,Confirmed,Contact Customer,False,False,False,False
+ALRT000971,TXN0001067,2026-03-19,0.669,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000972,TXN0003213,2025-06-15,0.316,Unusual Location,Medium,Cleared,Escalate,False,False,False,False
+ALRT000973,TXN0001388,2025-02-20,0.469,International Activity,Low,Under Review,Escalate,False,False,False,False
+ALRT000974,TXN0002658,2026-05-11,0.684,Unusual Location,High,New,No Action,False,False,False,False
+ALRT000975,TXN0000103,2026-07-17,0.303,International Activity,Low,Under Review,Block Transaction,False,False,False,False
+ALRT000976,TXN0005929,2026-01-08,0.186,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000977,TXN0006958,2025-05-24,0.253,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000978,TXN0000162,2026-05-23,0.24,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT000979,TXN0005384,2026-01-10,0.782,High Amount,High,Under Review,Escalate,False,False,False,False
+ALRT000980,TXN0002526,2026-05-01,0.893,Multiple Failures,High,Under Review,Contact Customer,False,False,False,False
+ALRT000981,TXN0001958,2025-11-13,0.163,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000982,TXN0002076,2026-03-12,0.339,High Amount,Medium,New,Escalate,False,False,False,False
+ALRT000983,TXN0004789,2025-07-07,0.336,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT000984,TXN0004353,2025-12-13,0.458,Rapid Transactions,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT000985,TXN0006536,2025-09-25,0.342,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT000986,TXN0003222,2026-07-19,0.896,Unusual Location,High,Cleared,Escalate,False,False,False,False
+ALRT000987,TXN0001491,2026-04-30,0.049,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT000988,TXN0004481,2025-06-20,0.426,Rapid Transactions,Medium,New,Escalate,False,False,False,False
+ALRT000989,TXN0002379,2025-02-13,0.919,International Activity,High,Under Review,Block Transaction,False,False,False,False
+ALRT000990,TXN0002656,2025-01-09,0.345,Unusual Location,High,Confirmed,Block Transaction,True,False,False,True
+ALRT000991,TXN0001256,2025-02-13,0.941,Rapid Transactions,High,Confirmed,Contact Customer,False,False,False,False
+ALRT000992,TXN0001141,2025-05-21,0.82,International Activity,High,Confirmed,Contact Customer,False,False,False,False
+ALRT000993,TXN0004374,2025-12-23,0.772,High Amount,High,Under Review,No Action,False,False,False,False
+ALRT000994,TXN0001612,2025-07-22,0.62,Multiple Failures,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT000995,TXN0005323,2025-03-18,0.659,International Activity,Critical,Under Review,Block Transaction,False,False,False,True
+ALRT000996,TXN0004183,2025-09-25,0.226,Unusual Location,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT000997,TXN0000650,2026-02-03,0.279,High Amount,Low,Under Review,No Action,False,False,False,False
+ALRT000998,TXN0001277,2025-11-30,0.695,International Activity,Low,Under Review,Contact Customer,False,False,False,False
+ALRT000999,TXN0002144,2025-05-17,0.233,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT001000,TXN0006019,2026-03-09,0.406,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT001003,TXN0005902,2025-08-01,0.291,High Amount,Low,New,No Action,False,False,False,False
+ALRT001004,TXN0005238,2026-02-03,0.434,Rapid Transactions,Low,Under Review,Block Transaction,False,False,False,False
+ALRT001005,TXN0005576,2026-08-01,0.889,High Amount,High,Cleared,No Action,False,False,False,False
+ALRT001006,TXN0000735,2025-02-01,0.441,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001008,TXN0001682,2025-08-21,0.276,International Activity,Medium,New,Escalate,False,False,False,False
+ALRT001009,TXN0003008,2026-09-22,0.322,Rapid Transactions,Low,New,Contact Customer,False,False,False,False
+ALRT001010,TXN0000420,2026-04-08,0.382,Rapid Transactions,Medium,Cleared,No Action,False,False,False,False
+ALRT001011,TXN0002159,2025-07-17,0.529,High Amount,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001012,TXN0004360,2026-06-26,0.75,High Amount,High,Cleared,Contact Customer,False,False,False,False
+ALRT001013,TXN0000490,2026-02-05,0.683,International Activity,High,Under Review,Contact Customer,False,False,False,False
+ALRT001014,TXN0006079,2026-08-04,0.214,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT001015,TXN0006580,2026-07-18,0.103,International Activity,Low,Cleared,Contact Customer,False,False,False,False
+ALRT001016,TXN0005526,2025-03-11,0.364,High Amount,Low,New,No Action,False,False,False,False
+ALRT001017,TXN0000287,2026-02-01,0.864,Rapid Transactions,High,Under Review,No Action,False,False,False,False
+ALRT001018,TXN0000939,2026-07-11,0.581,High Amount,Low,New,Block Transaction,False,False,False,False
+ALRT001019,TXN0000205,2026-07-01,0.261,Rapid Transactions,Medium,New,Contact Customer,False,False,False,False
+ALRT001020,TXN0006145,2025-03-22,0.59,International Activity,Low,New,Contact Customer,False,False,False,False
+ALRT001021,TXN0003928,2025-10-18,0.99,High Amount,High,Under Review,Escalate,False,False,False,False
+ALRT001022,TXN0004377,2025-06-13,0.147,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001023,TXN0000968,2026-06-10,0.367,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT001024,TXN0001547,2025-11-11,0.91,Multiple Failures,High,Under Review,No Action,False,False,False,False
+ALRT001025,TXN0000878,2025-09-28,0.567,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT001026,TXN0003328,2025-08-23,0.244,International Activity,Low,Confirmed,No Action,False,False,False,False
+ALRT001027,TXN0000484,2026-09-27,0.176,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT001028,TXN0002994,2025-05-28,0.796,Unusual Location,High,New,Contact Customer,False,False,False,False
+ALRT001029,TXN0006245,2025-10-31,0.195,International Activity,Low,Cleared,No Action,False,False,False,False
+ALRT001030,TXN0000050,2026-08-22,0.332,Unusual Location,Low,Under Review,No Action,False,False,False,False
+ALRT001031,TXN0000845,2026-01-21,0.114,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT001032,TXN0006017,2025-06-11,0.86,Unusual Location,High,New,Contact Customer,False,False,False,False
+ALRT001033,TXN0000751,2025-08-16,0.389,Rapid Transactions,Low,Cleared,Escalate,False,False,False,False
+ALRT001034,TXN0003957,2025-01-02,0.293,International Activity,Medium,Confirmed,Contact Customer,False,False,False,False
+ALRT001035,TXN0005976,2026-01-13,0.718,Rapid Transactions,High,Under Review,Escalate,False,False,False,False
+ALRT001036,TXN0002063,2025-02-10,0.281,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT001037,TXN0004056,2025-03-27,0.492,Unusual Location,Medium,Under Review,Escalate,False,False,False,False
+ALRT001038,TXN0003710,2026-02-17,0.514,Unusual Location,Medium,Confirmed,No Action,False,False,False,False
+ALRT001039,TXN0001973,2026-08-28,0.536,Unusual Location,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT001040,TXN0000995,2025-06-27,0.178,High Amount,Low,New,Block Transaction,False,False,False,False
+ALRT001041,TXN0000214,2025-02-05,0.192,High Amount,Medium,Under Review,No Action,False,False,False,False
+ALRT001042,TXN0003974,2026-07-30,0.852,Unusual Location,High,New,Escalate,False,False,False,False
+ALRT001043,TXN0003590,2026-02-05,0.466,Multiple Failures,Low,Cleared,Escalate,False,False,False,False
+ALRT001044,TXN0001092,2025-03-05,0.842,International Activity,High,New,Block Transaction,False,False,False,False
+ALRT001045,TXN0001085,2025-01-28,0.521,Multiple Failures,Medium,New,Escalate,False,False,False,False
+ALRT001046,TXN0001018,2025-08-07,0.106,Unusual Location,Medium,New,No Action,False,False,False,False
+ALRT001047,TXN0002448,2025-03-09,0.293,International Activity,Medium,New,Contact Customer,False,False,False,False
+ALRT001048,TXN0001818,2026-09-09,0.151,Multiple Failures,Low,Cleared,Contact Customer,False,False,False,False
+ALRT001049,TXN0001648,2026-07-09,0.139,Rapid Transactions,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001050,TXN0001156,2025-05-19,0.112,Rapid Transactions,Medium,Under Review,No Action,False,False,False,False
+ALRT001051,TXN0004831,2025-12-23,0.457,Multiple Failures,Medium,Cleared,Escalate,False,False,False,False
+ALRT001052,TXN0002959,2026-05-25,0.278,Rapid Transactions,Medium,New,Contact Customer,False,False,False,False
+ALRT001053,TXN0002585,2025-06-16,0.507,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT001054,TXN0001519,2025-07-17,0.876,Multiple Failures,Critical,Confirmed,Block Transaction,False,False,False,False
+ALRT001055,TXN0001332,2025-10-19,0.262,Unusual Location,Low,New,Block Transaction,False,False,False,False
+ALRT001056,TXN0003517,2026-04-24,0.172,Multiple Failures,Low,New,Escalate,False,False,False,False
+ALRT001057,TXN0006432,2025-02-22,0.034,Multiple Failures,Low,Under Review,Contact Customer,False,False,False,False
+ALRT001058,TXN0002261,2025-06-01,0.971,Unusual Location,High,Cleared,Escalate,False,False,False,False
+ALRT001059,TXN0000169,2025-06-05,0.044,Rapid Transactions,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT001060,TXN0005321,2025-01-16,0.313,Multiple Failures,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001061,TXN0004662,2026-09-10,0.204,High Amount,Medium,New,Block Transaction,False,False,False,False
+ALRT001062,TXN0001439,2025-01-18,0.472,Rapid Transactions,Low,Under Review,Contact Customer,False,False,False,False
+ALRT001063,TXN0000274,2025-12-23,0.468,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT001064,TXN0000203,2025-11-23,0.141,High Amount,Medium,New,Contact Customer,False,False,False,False
+ALRT001065,TXN0006116,2025-04-05,0.168,International Activity,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001066,TXN0003134,2025-07-31,0.284,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT001067,TXN0000659,2026-06-18,0.314,Rapid Transactions,Low,Under Review,Escalate,False,False,False,False
+ALRT001068,TXN0006521,2025-01-16,0.658,Rapid Transactions,High,Confirmed,No Action,False,False,False,False
+ALRT001069,TXN0004770,2026-09-05,0.28,International Activity,Low,Cleared,Escalate,False,False,False,False
+ALRT001070,TXN0002417,2025-09-18,0.742,High Amount,High,Cleared,Contact Customer,False,False,False,False
+ALRT001071,TXN0002493,2026-02-22,0.54,High Amount,Medium,Cleared,No Action,False,False,False,False
+ALRT001072,TXN0004714,2025-01-19,0.25,High Amount,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT001073,TXN0001154,2025-12-13,0.218,International Activity,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT001074,TXN0006813,2025-11-25,0.169,Multiple Failures,Medium,Under Review,Block Transaction,False,False,False,False
+ALRT001075,TXN0006514,2026-02-15,0.569,Multiple Failures,Medium,Under Review,Escalate,False,False,False,False
+ALRT001076,TXN0003403,2025-12-16,0.326,Rapid Transactions,Medium,New,Block Transaction,False,False,False,False
+ALRT001077,TXN0004457,2026-03-04,0.12,Unusual Location,Medium,Under Review,No Action,False,False,False,False
+ALRT001078,TXN0003319,2025-11-22,0.911,Multiple Failures,Critical,Cleared,Contact Customer,False,False,False,False
+ALRT001079,TXN0006893,2026-03-06,0.126,Unusual Location,Medium,Cleared,No Action,False,False,False,False
+ALRT001080,TXN0005002,2026-05-31,0.269,Unusual Location,Medium,New,Escalate,False,False,False,False
+ALRT001081,TXN0006267,2025-02-07,0.313,Unusual Location,Low,Under Review,Escalate,False,False,False,False
+ALRT001082,TXN0003238,2025-11-04,0.212,Rapid Transactions,Medium,New,No Action,False,False,False,False
+ALRT001083,TXN0005365,2026-09-08,0.424,Multiple Failures,Medium,Cleared,Block Transaction,False,False,False,False
+ALRT001084,TXN0003049,2026-04-08,0.336,Multiple Failures,Medium,Cleared,Contact Customer,False,False,False,False
+ALRT001085,TXN0000980,2025-10-12,0.223,Multiple Failures,Medium,New,Block Transaction,False,False,False,False
+ALRT001086,TXN0006270,2025-11-25,0.046,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT001087,TXN0002751,2026-06-29,0.027,Rapid Transactions,Low,Cleared,Contact Customer,False,False,False,False
+ALRT001088,TXN0005025,2025-12-18,0.787,Multiple Failures,High,Under Review,Block Transaction,False,False,False,False
+ALRT001089,TXN0004753,2026-04-24,0.433,Unusual Location,Medium,Under Review,Contact Customer,False,False,False,False
+ALRT001090,TXN0006749,2026-08-12,0.117,High Amount,Low,Cleared,Escalate,False,False,False,False
+ALRT001091,TXN0003286,2025-07-05,0.518,High Amount,Low,Cleared,No Action,False,False,False,False
+ALRT001092,TXN0005148,2025-05-04,0.264,Unusual Location,Medium,New,No Action,False,False,False,False
+ALRT001093,TXN0000474,2026-07-31,0.431,Unusual Location,Low,Cleared,Block Transaction,False,False,False,False
+ALRT001094,TXN0000942,2026-08-26,0.396,Rapid Transactions,Medium,Confirmed,No Action,False,False,False,False
+ALRT001095,TXN0005240,2026-09-03,0.902,High Amount,High,Unknown,Escalate,False,True,False,False
+ALRT001096,TXN0000952,2025-07-29,0.368,Unusual Location,Medium,New,No Action,False,False,False,False
+ALRT001097,TXN0001616,2025-07-02,0.156,Multiple Failures,Medium,Unknown,Contact Customer,False,True,False,False
+ALRT001098,TXN0006943,2025-04-16,0.357,Unusual Location,Low,New,No Action,False,False,False,False
+ALRT001099,TXN0006701,2025-06-28,0.232,Rapid Transactions,Medium,Confirmed,Contact Customer,False,False,False,False
+ALRT001100,TXN0001117,2025-04-17,0.035,Multiple Failures,Low,New,Escalate,False,False,False,False
